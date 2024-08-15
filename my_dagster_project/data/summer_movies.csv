@@ -1,0 +1,906 @@
+tconst,title_type,primary_title,original_title,year,runtime_minutes,simple_title,average_rating,num_votes,timestamp
+tt0011462,movie,Midsummer Madness,Midsummer Madness,1920,60,midsummer madness,7.4,19,01/01/24 14:30
+tt0026714,movie,A Midsummer Night's Dream,A Midsummer Night's Dream,1935,133,a midsummer nights dream,6.8,3931,01/01/24 14:30
+tt0033864,movie,The Teachers on Summer Vacation,Magistrarna på sommarlov,1941,86,the teachers on summer vacation,5.5,78,01/01/24 14:30
+tt0037325,movie,Summer Storm,Summer Storm,1944,106,summer storm,6.6,688,01/01/24 14:30
+tt0038406,movie,Centennial Summer,Centennial Summer,1946,102,centennial summer,6.1,431,01/01/24 14:30
+tt0038738,tvMovie,A Midsummer Night's Dream,A Midsummer Night's Dream,1946,150,a midsummer nights dream,7.5,10,01/01/24 14:30
+tt0039354,movie,One Swallow Does Not Make a Summer,En fluga gör ingen sommar,1947,88,one swallow does not make a summer,5.8,40,01/01/24 14:30
+tt0040848,movie,Summer Holiday,Summer Holiday,1948,93,summer holiday,5.7,668,01/01/24 14:30
+tt0041507,movie,In the Good Old Summertime,In the Good Old Summertime,1949,102,in the good old summertime,7.1,4358,01/01/24 14:30
+tt0042930,movie,Bountiful Summer,Shchedroe leto,1951,87,bountiful summer,5.7,112,01/01/24 14:30
+tt0043012,movie,Summer Stock,Summer Stock,1950,108,summer stock,7.1,4873,01/01/24 14:30
+tt0043313,movie,Early Summer,Bakushû,1951,125,early summer,8.1,9793,01/01/24 14:30
+tt0043652,movie,One Summer of Happiness,Hon dansade en sommar,1951,103,one summer of happiness,6.8,900,01/01/24 14:30
+tt0044060,movie,Summer Interlude,Sommarlek,1951,96,summer interlude,7.5,6724,01/01/24 14:30
+tt0046345,movie,Summer with Monika,Sommaren med Monika,1953,96,summer with monika,7.5,16352,01/01/24 14:30
+tt0047173,movie,The Last Summer,Der letzte Sommer,1954,110,the last summer,6.7,39,01/01/24 14:30
+tt0047289,movie,Summer's Clouds,Nubes de verano,1955,88,summers clouds,6.2,15,01/01/24 14:30
+tt0048641,movie,Smiles of a Summer Night,Sommarnattens leende,1955,109,smiles of a summer night,7.7,14782,01/01/24 14:30
+tt0048673,movie,Summertime,Summertime,1955,100,summertime,7.1,10166,01/01/24 14:30
+tt0048771,movie,The Summer Wind Blows,Ute blåser sommarvind,1955,90,the summer wind blows,5,13,01/01/24 14:30
+tt0049439,movie,"Love, Summer and Music","Liebe, Sommer und Musik",1956,96,love summer and music,5.8,13,01/01/24 14:30
+tt0049613,movie,No Ordinary Summer,Pervye radosti,1957,103,no ordinary summer,7.2,27,01/01/24 14:30
+tt0049632,movie,Passionate Summer,Les possédées,1956,90,passionate summer,6.5,36,01/01/24 14:30
+tt0050524,movie,Hot Summer Night,Hot Summer Night,1957,86,hot summer night,6.1,436,01/01/24 14:30
+tt0050994,movie,Summer Place Wanted,Sommarnöje sökes,1957,98,summer place wanted,5.2,118,01/01/24 14:30
+tt0051791,movie,Summer Clouds,Iwashigumo,1958,128,summer clouds,7.4,385,01/01/24 14:30
+tt0051878,movie,"The Long, Hot Summer","The Long, Hot Summer",1958,115,the long hot summer,7.3,12523,01/01/24 14:30
+tt0052037,movie,The Last Day of Summer,Ostatni dzien lata,1958,66,the last day of summer,6.9,727,01/01/24 14:30
+tt0052258,movie,Summer Love,Summer Love,1958,85,summer love,6.1,85,01/01/24 15:30
+tt0052786,movie,Violent Summer,Estate violenta,1959,98,violent summer,7.3,1912,01/01/24 15:30
+tt0052942,movie,Jazz on a Summer's Day,Jazz on a Summer's Day,1959,88,jazz on a summers day,7.9,1972,01/01/24 15:30
+tt0053261,movie,A Midsummer Night's Dream,Sen noci svatojánské,1959,76,a midsummer nights dream,7.2,478,01/01/24 15:30
+tt0053292,movie,A Summer You Will Never Forget,"Ein Sommer, den man nie vergisst",1959,92,a summer you will never forget,5.1,39,01/01/24 15:30
+tt0053318,movie,"Suddenly, Last Summer","Suddenly, Last Summer",1959,114,suddenly last summer,7.5,17496,01/01/24 15:30
+tt0053320,movie,A Summer Place,A Summer Place,1959,130,a summer place,6.9,3920,01/01/24 15:30
+tt0053395,movie,A Mistress for the Summer,Une fille pour l'été,1960,80,a mistress for the summer,6.1,40,01/01/24 15:30
+tt0054745,movie,Chronicle of a Summer,Chronique d'un été (Paris 1960),1961,85,chronicle of a summer,7.5,3638,01/01/24 15:30
+tt0055052,movie,The End of Summer,Kohayagawa-ke no aki,1961,103,the end of summer,7.7,4556,01/01/24 15:30
+tt0055299,movie,Summerskin,Piel de verano,1961,96,summerskin,6.9,90,01/01/24 15:30
+tt0055489,movie,Summer and Smoke,Summer and Smoke,1961,118,summer and smoke,6.8,2092,01/01/24 15:30
+tt0056153,movie,Short Is the Summer,Kort är sommaren,1962,110,short is the summer,5.6,71,01/01/24 15:30
+tt0057074,movie,Summer Frenzy,Frenesia dell'estate,1964,100,summer frenzy,6.1,114,01/01/24 15:30
+tt0057541,movie,Summer Holiday,Summer Holiday,1963,107,summer holiday,6.1,1852,01/01/24 15:30
+tt0057542,movie,Summer Magic,Summer Magic,1963,110,summer magic,6.9,2762,01/01/24 15:30
+tt0058600,movie,Summer in Tyrol,Sommer i Tyrol,1964,99,summer in tyrol,6.7,1096,01/01/24 15:30
+tt0059562,movie,Crime on a Summer Morning,Par un beau matin d'été,1965,109,crime on a summer morning,6.3,405,01/01/24 15:30
+tt0059771,movie,A Swingin' Summer,A Swingin' Summer,1965,80,a swingin summer,4.8,260,01/01/24 15:30
+tt0060045,movie,10:30 P.M. Summer,10:30 P.M. Summer,1966,85,1030 pm summer,6.4,773,01/01/24 15:30
+tt0060371,movie,The Endless Summer,The Endless Summer,1966,95,the endless summer,7.6,6298,01/01/24 15:30
+tt0060694,movie,A Midsummer Night's Dream,A Midsummer Night's Dream,1967,93,a midsummer nights dream,7.3,31,01/01/24 15:30
+tt0061788,tvMovie,How I Spent My Summer Vacation,How I Spent My Summer Vacation,1967,100,how i spent my summer vacation,7,231,01/01/24 15:30
+tt0062009,movie,Double Suicide: Japanese Summer,Muri shinjû: Nihon no natsu,1967,98,double suicide japanese summer,6.7,901,01/01/24 15:30
+tt0062322,movie,Dry Summer,Susuz Yaz,1963,90,dry summer,7.8,5811,01/01/24 15:30
+tt0062484,movie,Uneasy Summer,Wenn es Nacht wird auf der Reeperbahn,1967,98,uneasy summer,6.3,139,01/01/24 15:30
+tt0062619,movie,One Swedish Summer,...som havets nakna vind,1968,105,one swedish summer,3.9,166,01/01/24 15:30
+tt0063223,movie,Summer of the Lion,Lejonsommar,1968,86,summer of the lion,6.3,48,01/01/24 16:30
+tt0063297,movie,A Midsummer Night's Dream,A Midsummer Night's Dream,1968,124,a midsummer nights dream,6.5,898,01/01/24 16:30
+tt0063351,movie,Summer in Narita,Nihon Kaiho sensen: Sanrizuka no natsu,1968,108,summer in narita,7.3,54,01/01/24 16:30
+tt0063527,movie,Capricious Summer,Rozmarné léto,1968,74,capricious summer,6.9,1635,01/01/24 16:30
+tt0063544,movie,Farewell to the Summer Light,Saraba natsu no hikari,1968,96,farewell to the summer light,6.8,266,01/01/24 16:30
+tt0064573,movie,Last Summer,Last Summer,1969,95,last summer,6.9,2197,01/01/24 16:30
+tt0064761,movie,One Brief Summer,One Brief Summer,1971,86,one brief summer,5.9,26,01/01/24 16:30
+tt0064808,movie,The Picasso Summer,The Picasso Summer,1969,90,the picasso summer,5.2,380,01/01/24 16:30
+tt0065618,movie,Dead of Summer,Ondata di calore,1970,89,dead of summer,6.3,121,01/01/24 16:30
+tt0065701,movie,Erika's Hot Summer,Erika's Hot Summer,1971,65,erikas hot summer,4.1,111,01/01/24 16:30
+tt0065973,movie,Summer Love,Le Mans scorciatoia per l'inferno,1970,92,summer love,4.7,77,01/01/24 16:30
+tt0066421,movie,Summer in the City,Summer in the City,1971,116,summer in the city,5.8,349,01/01/24 16:30
+tt0067028,movie,In the Summertime,Durante l'estate,1971,105,in the summertime,7.6,71,01/01/24 16:30
+tt0067803,movie,Summer of '42,Summer of '42,1971,104,summer of 42,7.2,9228,01/01/24 16:30
+tt0067804,movie,Summertree,Summertree,1971,88,summertree,5.7,380,01/01/24 16:30
+tt0068992,movie,Dear Summer Sister,Natsu no imôto,1972,96,dear summer sister,6.3,224,01/01/24 16:30
+tt0069120,movie,Indian Summer,La prima notte di quiete,1972,132,indian summer,7.2,2689,01/01/24 16:30
+tt0069319,movie,Raid in the Summer,Strandhugg i somras,1972,88,raid in the summer,4.3,69,01/01/24 16:30
+tt0069329,movie,Summer Soldiers,Samâ sorujâ,1972,107,summer soldiers,6.3,172,01/01/24 16:30
+tt0069368,tvMovie,That Certain Summer,That Certain Summer,1972,73,that certain summer,7.7,499,01/01/24 16:30
+tt0069457,movie,Summertime Killer,Un verano para matar,1972,110,summertime killer,6,465,01/01/24 16:30
+tt0069807,movie,Blue Summer,Blue Summer,1973,79,blue summer,4.4,486,01/01/24 16:30
+tt0069949,movie,One Russian Summer,Fury,1973,112,one russian summer,5.4,407,01/01/24 16:30
+tt0070748,movie,"Summer Wishes, Winter Dreams","Summer Wishes, Winter Dreams",1973,93,summer wishes winter dreams,6.4,874,01/01/24 16:30
+tt0070749,tvMovie,A Summer Without Boys,A Summer Without Boys,1973,74,a summer without boys,7,115,01/01/24 16:30
+tt0070875,movie,Temptation in the Summer Wind,Versuchung im Sommerwind,1972,81,temptation in the summer wind,8.1,26,01/01/24 16:30
+tt0071597,movie,Harrad Summer,Harrad Summer,1974,103,harrad summer,4.1,133,01/01/24 16:30
+tt0071624,movie,Hot Summer in Barefoot County,Hot Summer in Barefoot County,1974,90,hot summer in barefoot county,3.6,229,01/01/24 16:30
+tt0072173,movie,Malibu Hot Summer,Malibu Hot Summer,1981,90,malibu hot summer,2.7,871,01/01/24 16:30
+tt0073730,movie,Summer Guests,Sommergäste,1976,115,summer guests,7.6,69,01/01/24 16:30
+tt0073764,movie,Summer School Teachers,Summer School Teachers,1975,85,summer school teachers,4.4,335,01/01/24 16:30
+tt0074459,movie,Echoes of a Summer,Echoes of a Summer,1976,99,echoes of a summer,6.4,489,01/01/24 16:30
+tt0074790,movie,Summer with a Cowboy,Léto s kovbojem,1976,90,summer with a cowboy,6.7,227,01/01/24 16:30
+tt0075282,movie,Summer of Secrets,Summer of Secrets,1976,100,summer of secrets,5.3,57,01/01/24 16:30
+tt0075292,movie,Summer,Suvi,1976,81,summer,7.7,793,01/01/24 16:30
+tt0076524,movie,Summer Paradise,Paradistorg,1977,113,summer paradise,6,153,01/01/24 16:30
+tt0076765,movie,Shadows of a Hot Summer,Stíny horkého léta,1978,100,shadows of a hot summer,7.4,336,01/01/24 16:30
+tt0076779,movie,Summer Affair,Il sole nella pelle,1971,91,summer affair,5.5,234,01/01/24 16:30
+tt0076780,movie,Summer City,Summer City,1977,83,summer city,3.9,765,01/01/24 16:30
+tt0076782,movie,Summerfield,Summerfield,1977,95,summerfield,6.8,415,01/01/24 17:30
+tt0076816,tvMovie,Things We Did Last Summer,Things We Did Last Summer,1978,50,things we did last summer,6.8,121,01/01/24 17:30
+tt0077152,movie,Almost Summer,Almost Summer,1978,88,almost summer,5.7,353,01/01/24 17:30
+tt0077372,movie,Corvette Summer,Corvette Summer,1978,105,corvette summer,5.7,3933,01/01/24 17:30
+tt0078330,tvMovie,Summer of Fear,Stranger in Our House,1978,98,summer of fear,5.5,3092,01/01/24 17:30
+tt0078340,movie,Summer Night Fever,Summer Night Fever,1978,103,summer night fever,4.5,257,01/01/24 17:30
+tt0078341,tvMovie,Summer of My German Soldier,Summer of My German Soldier,1978,100,summer of my german soldier,7.8,466,01/01/24 17:30
+tt0079423,movie,A Summer of Love,En kärleks sommar,1979,98,a summer of love,5.3,95,01/01/24 17:30
+tt0079965,movie,Summer Camp,Summer Camp,1979,85,summer camp,3.7,574,01/01/24 17:30
+tt0080013,movie,That Summer!,That Summer!,1979,94,that summer,6.4,161,01/01/24 17:30
+tt0080534,movie,Summer Showers,Chuvas de Verão,1978,93,summer showers,7.1,232,01/01/24 17:30
+tt0080611,movie,Last Summer,Dernier été,1981,85,last summer,6.6,125,01/01/24 17:30
+tt0081069,tvMovie,The Long Days of Summer,The Long Days of Summer,1980,100,the long days of summer,6.3,59,01/01/24 17:30
+tt0082233,movie,A Dangerous Summer,A Dangerous Summer,1982,100,a dangerous summer,3.4,272,01/01/24 17:30
+tt0082746,tvMovie,A Midsummer Night's Dream,A Midsummer Night's Dream,1981,112,a midsummer nights dream,6.7,341,01/01/24 17:30
+tt0082902,movie,Pick-up Summer,Pinball Summer,1980,99,pickup summer,4.3,449,01/01/24 17:30
+tt0083141,tvMovie,Summer Solstice,Summer Solstice,1981,75,summer solstice,7.1,287,01/01/24 17:30
+tt0083947,movie,Five Days One Summer,Five Days One Summer,1982,108,five days one summer,6.1,1341,01/01/24 17:30
+tt0084265,tvMovie,The Long Summer of George Adams,The Long Summer of George Adams,1982,100,the long summer of george adams,7.4,99,01/01/24 17:30
+tt0084328,tvMovie,A Midsummer Night's Dream,A Midsummer Night's Dream,1982,NA,a midsummer nights dream,7.8,105,01/01/24 17:30
+tt0084329,movie,A Midsummer Night's Sex Comedy,A Midsummer Night's Sex Comedy,1982,88,a midsummer nights sex comedy,6.6,20628,01/01/24 17:30
+tt0084636,movie,Klynham Summer,The Scarecrow,1982,88,klynham summer,5.7,224,01/01/24 17:30
+tt0084737,movie,Summer Lovers,Summer Lovers,1982,98,summer lovers,5.8,4534,01/01/24 17:30
+tt0084957,movie,A Hot Summer Night,Een zwoele zomeravond,1982,95,a hot summer night,7.1,42,01/01/24 17:30
+tt0085241,movie,Bicycles Are for the Summer,Las bicicletas son para el verano,1984,103,bicycles are for the summer,7.3,891,01/01/24 17:30
+tt0086332,movie,A Midsummer Night's Dream,Sogno di una notte d'estate,1983,104,a midsummer nights dream,5.4,81,01/01/24 17:30
+tt0086385,tvMovie,Summer Girl,Summer Girl,1983,96,summer girl,6.2,173,01/01/24 17:30
+tt0086387,movie,Summerspell,Summerspell,1983,100,summerspell,5.2,118,01/01/24 17:30
+tt0086655,movie,One Deadly Summer,L'été meurtrier,1983,133,one deadly summer,7.2,5468,01/01/24 17:30
+tt0087164,movie,A Summer at Grandpa's,Dong dong de jiàqi,1984,93,a summer at grandpas,7.6,1788,01/01/24 17:30
+tt0087591,tvMovie,Last Day of Summer,Last Day of Summer,1984,54,last day of summer,8.4,55,01/01/24 17:30
+tt0087719,tvMovie,A Midsummer Night's Dream,A Midsummer Night's Dream,1984,80,a midsummer nights dream,6.9,36,01/01/24 17:30
+tt0088201,tvMovie,Summer Fantasy,Summer Fantasy,1984,120,summer fantasy,5.1,195,01/01/24 17:30
+tt0088202,movie,A Summer in Saint Tropez,Un été à Saint-Tropez,1983,59,a summer in saint tropez,5.1,561,01/01/24 17:30
+tt0088203,movie,Summer's Children,Summer's Children,1979,83,summers children,5.5,25,01/01/24 17:30
+tt0088338,movie,The Elusive Summer of '68,Varljivo leto '68,1984,91,the elusive summer of 68,8.5,6140,01/01/24 17:30
+tt0089202,tvMovie,Gidget's Summer Reunion,Gidget's Summer Reunion,1985,93,gidgets summer reunion,6.2,108,01/01/24 17:30
+tt0090098,movie,Summer Rental,Summer Rental,1985,87,summer rental,6.3,18610,01/01/24 17:30
+tt0090099,tvMovie,A Summer to Remember,A Summer to Remember,1985,93,a summer to remember,7,187,01/01/24 17:30
+tt0090663,tvMovie,As Summers Die,As Summers Die,1986,87,as summers die,6,869,01/01/24 17:30
+tt0090932,movie,Last Summer in Tangiers,Dernier été à Tanger,1987,115,last summer in tangiers,4.9,203,01/01/24 17:30
+tt0091680,movie,One Crazy Summer,One Crazy Summer,1986,93,one crazy summer,6.4,16952,01/01/24 17:30
+tt0091985,movie,The Summer of the Samurai,Der Sommer des Samurai,1986,100,the summer of the samurai,5.7,60,01/01/24 17:30
+tt0092678,movie,Late Summer Blues,Blues Lahofesh Hagadol,1987,101,late summer blues,7.5,308,01/01/24 17:30
+tt0093516,movie,Meatballs III: Summer Job,Meatballs III: Summer Job,1986,96,meatballs iii summer job,3.5,2631,01/01/24 17:30
+tt0093650,movie,"Summer Night with Greek Profile, Almond Eyes and Scent of Basil","Notte d'estate con profilo greco, occhi a mandorla e odore di basilico",1986,94,summer night with greek profile almond eyes and scent of basil,5.8,380,01/01/24 17:30
+tt0094070,movie,Summer Camp Nightmare,Summer Camp Nightmare,1986,89,summer camp nightmare,5.3,989,01/01/24 17:30
+tt0094071,movie,Summer Heat,Summer Heat,1987,80,summer heat,4.8,431,01/01/24 17:30
+tt0094072,movie,Summer School,Summer School,1987,97,summer school,6.6,22457,01/01/24 17:30
+tt0094318,movie,White Water Summer,White Water Summer,1987,90,white water summer,6.2,6023,01/01/24 17:30
+tt0094595,movie,Summer Vacation 1999,1999 nen no natsu yasumi,1988,90,summer vacation 1999,6.6,300,01/01/24 17:30
+tt0094637,movie,Aloha Summer,Aloha Summer,1988,98,aloha summer,5.7,301,01/01/24 18:30
+tt0094795,movie,Breaking Loose: Summer City II,Breaking Loose: Summer City II,1988,87,breaking loose summer city ii,3.9,60,01/01/24 18:30
+tt0095280,movie,Haunted Summer,Haunted Summer,1988,106,haunted summer,5.8,594,01/01/24 18:30
+tt0095433,movie,The Summer of Aviya,Ha-Kayitz Shel Aviya,1988,95,the summer of aviya,7.1,439,01/01/24 18:30
+tt0095441,movie,The Cold Summer of 1953,Kholodnoe leto pyatdesyat tretego,1988,101,the cold summer of 1953,7.8,2595,01/01/24 18:30
+tt0095920,movie,Summer Temptations,Provocazione,1988,83,summer temptations,4.7,216,01/01/24 18:30
+tt0096036,movie,Summer Thefts,Sarikat Sayfeya,1988,102,summer thefts,7.1,139,01/01/24 18:30
+tt0096137,movie,Summer,Sommer,1988,105,summer,6.5,21,01/01/24 18:30
+tt0096189,movie,A Summer Story,A Summer Story,1988,95,a summer story,7.2,1249,01/01/24 18:30
+tt0096190,movie,Summertime Blues,Summertime Blues: Lemon Popsicle VIII,1988,90,summertime blues,4.7,757,01/01/24 18:30
+tt0097160,tvMovie,A Day in Summer,A Day in Summer,1989,105,a day in summer,8.4,31,01/01/24 18:30
+tt0097765,movie,A Summer to Remember,Ljeto za sjecanje,1990,105,a summer to remember,6.4,55,01/01/24 18:30
+tt0098411,movie,Summer Job,Summer Job,1989,92,summer job,4.4,662,01/01/24 18:30
+tt0098463,movie,That Summer of White Roses,Djavolji raj,1989,98,that summer of white roses,5.8,178,01/01/24 18:30
+tt0098587,movie,Summer of the Colt,El verano del potro,1989,100,summer of the colt,6.2,134,01/01/24 18:30
+tt0098623,movie,Warm Summer Rain,Warm Summer Rain,1989,82,warm summer rain,4.9,501,01/01/24 18:30
+tt0100277,movie,Summer Night in Town,Nuit d'été en ville,1990,85,summer night in town,6.1,525,01/01/24 18:30
+tt0100715,tvMovie,Summer Dreams: The Story of the Beach Boys,Summer Dreams: The Story of the Beach Boys,1990,90,summer dreams the story of the beach boys,6.4,528,01/01/24 18:30
+tt0101328,movie,An American Summer,An American Summer,1990,100,an american summer,5.4,289,01/01/24 18:30
+tt0101449,movie,Bikini Summer,Bikini Summer,1990,87,bikini summer,3.6,586,01/01/24 18:30
+tt0101985,movie,A Brighter Summer Day,Guling jie shaonian sharen shijian,1991,237,a brighter summer day,8.2,13034,01/01/24 18:30
+tt0102878,movie,A Sensuous Summer,A Sensuous Summer,1991,80,a sensuous summer,4.2,57,01/01/24 18:30
+tt0102907,movie,Summer of the Lion Kings,Shishiohtachi no natsu,1991,107,summer of the lion kings,4.7,11,01/01/24 18:30
+tt0103005,tvMovie,The Summer My Father Grew Up,The Summer My Father Grew Up,1991,97,the summer my father grew up,6.2,75,01/01/24 18:30
+tt0103813,movie,Bikini Summer II,Bikini Summer II,1992,85,bikini summer ii,3.3,513,01/01/24 18:30
+tt0103997,tvMovie,The Comrades of Summer,The Comrades of Summer,1992,90,the comrades of summer,5.9,399,01/01/24 18:30
+tt0105801,movie,Wet and Wild Summer!,Wet and Wild Summer!,1993,95,wet and wild summer,4.1,314,01/01/24 19:30
+tt0105853,movie,Summer Lovers,Xia ri qing ren,1992,80,summer lovers,6,50,01/01/24 19:30
+tt0106991,movie,Three Summers,Ge ge de qing ren,1992,90,three summers,6.4,72,01/01/24 19:30
+tt0107212,movie,Indian Summer,Indian Summer,1993,97,indian summer,6.5,6083,01/01/24 19:30
+tt0107496,movie,Malibu Summer,Malibu Summer,1993,NA,malibu summer,4.3,46,01/01/24 19:30
+tt0107743,movie,The Olympic Summer,Der olympische Sommer,1993,85,the olympic summer,7.1,39,01/01/24 19:30
+tt0108252,movie,Sune's Summer,Sunes sommar,1993,83,sunes summer,7,5126,01/01/24 19:30
+tt0109549,movie,Dark Summer,Dark Summer,1994,90,dark summer,5.6,12,01/01/24 19:30
+tt0109620,movie,In the Heat of Summer,Dim ji bing bing: Ching nin gon taam,1994,98,in the heat of summer,6.9,22,01/01/24 19:30
+tt0109729,movie,The Endless Summer 2,The Endless Summer 2,1994,109,the endless summer 2,7.6,2239,01/01/24 19:30
+tt0110168,movie,My Summer Story,It Runs in the Family,1994,85,my summer story,5.6,1840,01/01/24 19:30
+tt0111312,tvMovie,Summertime Switch,Summertime Switch,1994,85,summertime switch,5.9,541,01/01/24 19:30
+tt0111546,movie,An Unforgettable Summer,Un été inoubliable,1994,82,an unforgettable summer,7.3,1109,01/01/24 19:30
+tt0111767,movie,Summer Snow,Nu ren si shi,1995,101,summer snow,7.8,841,01/01/24 19:30
+tt0113612,movie,Last Summer in the Hamptons,Last Summer in the Hamptons,1995,108,last summer in the hamptons,5.7,443,01/01/24 19:30
+tt0114775,movie,A Summer in La Goulette,Saeif Halq Al Wadi,1996,89,a summer in la goulette,6.3,876,01/01/24 19:30
+tt0115940,movie,A Summer's Tale,Conte d'été,1996,113,a summers tale,7.6,10251,01/01/24 19:30
+tt0115961,movie,Coyote Summer,Coyote Summer,1996,93,coyote summer,5.6,217,01/01/24 19:30
+tt0116200,tvMovie,End of Summer,End of Summer,1997,95,end of summer,5.1,259,01/01/24 19:30
+tt0116686,movie,Japanese Summers of a Filipino Fundoshi,Japanese Summers of a Filipino Fundoshi,1996,NA,japanese summers of a filipino fundoshi,6.2,11,01/01/24 19:30
+tt0117043,movie,A Midsummer Night's Dream,A Midsummer Night's Dream,1996,105,a midsummer nights dream,6.2,394,01/01/24 19:30
+tt0117085,movie,Moscow Summer,Moscow Summer,1996,80,moscow summer,8.3,10,01/01/24 19:30
+tt0117310,movie,Paul Monette: The Brink of Summer's End,Paul Monette: The Brink of Summer's End,1996,90,paul monette the brink of summers end,8,95,01/01/24 19:30
+tt0117779,tvMovie,The Summer of Ben Tyler,The Summer of Ben Tyler,1996,110,the summer of ben tyler,6.6,233,01/01/24 19:30
+tt0117780,tvMovie,Summer of Fear,Summer of Fear,1996,100,summer of fear,5.3,305,01/01/24 19:30
+tt0118720,movie,Bikini Summer III: South Beach Heat,Bikini Summer III: South Beach Heat,1997,87,bikini summer iii south beach heat,2.9,297,01/01/24 19:30
+tt0119345,movie,I Know What You Did Last Summer,I Know What You Did Last Summer,1997,101,i know what you did last summer,5.8,159524,01/01/24 19:30
+tt0122078,movie,Ardent Summer,Furia infernal,1973,90,ardent summer,5.7,74,01/01/24 19:30
+tt0122181,movie,My Summer Vacation,My Summer Vacation,1996,95,my summer vacation,5,15,01/01/24 19:30
+tt0123945,movie,That Brief Summer,Den korte sommer,1976,96,that brief summer,5.3,59,01/01/24 19:30
+tt0125449,movie,Over the Summer,Over the Summer,1985,97,over the summer,5.1,45,01/01/24 19:30
+tt0128648,movie,Summer of the Monkeys,Summer of the Monkeys,1998,101,summer of the monkeys,6.2,626,01/01/24 19:30
+tt0130018,movie,I Still Know What You Did Last Summer,I Still Know What You Did Last Summer,1998,100,i still know what you did last summer,4.8,79290,01/01/24 19:30
+tt0131432,movie,How I Spent My Summer Vacation,How I Spent My Summer Vacation,1997,73,how i spent my summer vacation,7.2,108,01/01/24 19:30
+tt0133893,movie,Summer Rebellion,Kesäkapina,1970,81,summer rebellion,5.9,170,01/01/24 19:30
+tt0134148,movie,Three Summer Days,Tri letnja dana,1997,90,three summer days,6.1,286,01/01/24 19:30
+tt0134719,movie,Her Summer Hero,Her Summer Hero,1928,60,her summer hero,4.3,12,01/01/24 19:30
+tt0137618,movie,Fruits of Summer,Les fruits de l'été,1955,105,fruits of summer,5.4,21,01/01/24 19:30
+tt0137875,movie,This Summer at 5,Kesällä kello 5,1963,75,this summer at 5,5.6,126,01/01/24 19:30
+tt0139684,movie,Stormy Summer,Un été d'orages,1989,95,stormy summer,5.7,52,01/01/24 19:30
+tt0140379,movie,A Midsummer Night's Dream,A Midsummer Night's Dream,1999,116,a midsummer nights dream,6.4,27181,01/01/24 19:30
+tt0140944,tvMovie,Deadly Summer,Deadly Summer,1997,50,deadly summer,7.4,105,01/01/24 19:30
+tt0143350,movie,A Summer by the River,Kuningasjätkä,1998,85,a summer by the river,6.4,716,01/01/24 19:30
+tt0144397,tvMovie,My Summer with Des,My Summer with Des,1998,82,my summer with des,6.9,416,01/01/24 19:30
+tt0145942,tvMovie,One Hot Summer Night,One Hot Summer Night,1998,100,one hot summer night,4.6,247,01/01/24 19:30
+tt0157391,movie,White Horses of Summer,Bianchi cavalli d'Agosto,1975,89,white horses of summer,6,60,01/01/24 19:30
+tt0160865,movie,New Kimagure Orange Road: Summer's Beginning,"Shin Kimagure Orenji Rôdo: Soshite, ano natsu no hajimari",1996,100,new kimagure orange road summers beginning,7.4,313,01/01/24 19:30
+tt0162677,movie,Summer of Sam,Summer of Sam,1999,142,summer of sam,6.7,41927,01/01/24 19:30
+tt0163264,movie,The Summer of the Hawk,Der Sommer des Falken,1988,106,the summer of the hawk,7.2,46,01/01/24 19:30
+tt0168123,movie,A Long Hot Summer,Pitkä kuuma kesä,1999,100,a long hot summer,7,2727,01/01/24 19:30
+tt0168198,movie,Summer Lightning,Summer Lightning,1985,NA,summer lightning,6.9,11,01/01/24 19:30
+tt0171296,tvMovie,Basque Summer,Euzkadi été 1982,2003,55,basque summer,6.6,54,01/01/24 19:30
+tt0171747,tvMovie,Sweet Games of Last Summer,Sladké hry minulého léta,1970,66,sweet games of last summer,6.3,133,01/01/24 19:30
+tt0173151,tvMovie,Summer of Old Times,Régi nyár,1969,90,summer of old times,6.4,27,01/01/24 19:30
+tt0174246,tvMovie,A Storm in Summer,A Storm in Summer,1970,90,a storm in summer,8.4,55,01/01/24 19:30
+tt0174507,movie,Blue Lagoon: A Summer Experience,Hitonatsu no taiken: aoi sangosho,1981,68,blue lagoon a summer experience,6.1,64,01/01/24 19:30
+tt0175820,movie,Concert at the End of Summer,Koncert na konci léta,1980,102,concert at the end of summer,6.5,35,01/01/24 19:30
+tt0176164,tvMovie,A Midsummer Night's Dream,Le songe d'une nuit d'été,1969,141,a midsummer nights dream,8.4,45,01/01/24 19:30
+tt0179328,movie,Little Summer Blues,Malé letní blues,1968,71,little summer blues,6.5,22,01/01/24 19:30
+tt0179479,tvMovie,Summer Camp,Summer Camp,1978,62,summer camp,6.4,20,01/01/24 19:30
+tt0180834,movie,A Quiet Summer,Mirno leto,1961,99,a quiet summer,8,105,01/01/24 19:30
+tt0183320,movie,Midsummer Stories,Juhannustarinoita,1997,49,midsummer stories,7,24,01/01/24 19:30
+tt0187852,movie,Summer's End,Fin d'été,1999,68,summers end,5.6,26,01/01/24 19:30
+tt0188214,movie,Summer's Gone,Summer's Gone,1999,96,summers gone,6.4,12,01/01/24 19:30
+tt0189660,movie,The Longest Summer,Hui nin yin fa dak bit doh,1998,128,the longest summer,7.2,487,01/01/24 19:30
+tt0192644,tvMovie,Summer's End,Summer's End,1999,101,summers end,7.1,473,01/01/24 19:30
+tt0193537,movie,Summer Rain,Summer Rain,2001,92,summer rain,4.1,112,01/01/24 19:30
+tt0195517,tvMovie,All Summer in a Day,All Summer in a Day,1982,25,all summer in a day,7.6,504,01/01/24 19:30
+tt0202618,movie,That Summer in LA,That Summer in LA,2000,NA,that summer in la,7.8,20,01/01/24 20:30
+tt0204342,movie,Summer of the Moonlight Sonata,Gekko no natsu,1993,NA,summer of the moonlight sonata,7.6,10,01/01/24 20:30
+tt0204932,movie,A Summer Tale,Den bästa sommaren,2000,91,a summer tale,7.3,4596,01/01/24 20:30
+tt0210654,movie,Donald Duck's Summer Magic,Donald Duck's Summer Magic,1977,75,donald ducks summer magic,6.6,50,01/01/24 20:30
+tt0214555,movie,Bullets Over Summer,Bau lit ying ging,1999,92,bullets over summer,6.7,846,01/01/24 20:30
+tt0215519,movie,Anna's Summer,Annas Sommer,2001,107,annas summer,5.6,129,01/01/24 20:30
+tt0217066,tvMovie,A Storm in Summer,A Storm in Summer,2000,94,a storm in summer,6.9,517,01/01/24 20:30
+tt0218643,tvMovie,Summer in the Suburbs,Summer in the Suburbs,2000,90,summer in the suburbs,6.2,72,01/01/24 20:30
+tt0218932,tvMovie,The Last Summer,Le dernier été,1997,81,the last summer,6.6,74,01/01/24 20:30
+tt0220077,movie,The Summer Intern,The Summer Intern,2000,116,the summer intern,6.4,17,01/01/24 20:30
+tt0221249,movie,Summer Hotel,Hotel de verano,1944,95,summer hotel,6,13,01/01/24 20:30
+tt0226121,movie,Summer of Evil,Masho no natsu - 'Yotsuya kaidan' yori,1981,96,summer of evil,4.6,28,01/01/24 20:30
+tt0228584,movie,One Day at Summer's End,Nureta futari,1968,82,one day at summers end,5.7,32,01/01/24 20:30
+tt0234829,movie,Summer Catch,Summer Catch,2001,104,summer catch,5.1,16750,01/01/24 20:30
+tt0241972,movie,Summer Dream,Sonho de Verão,1990,80,summer dream,4.7,190,01/01/24 20:30
+tt0242916,movie,Summer Children,Summer Children,1965,90,summer children,7.3,53,01/01/24 20:30
+tt0243315,video,Hot Body Competition: Summer Wet T Shirt Finals,Hot Body Competition: Summer Wet T Shirt Finals,1999,90,hot body competition summer wet t shirt finals,7.8,13,01/01/24 20:30
+tt0243655,movie,Wet Hot American Summer,Wet Hot American Summer,2001,97,wet hot american summer,6.5,61008,01/01/24 20:30
+tt0247527,movie,Spring Night Summer Night,Spring Night Summer Night,1967,82,spring night summer night,7.1,758,01/01/24 20:30
+tt0247530,movie,Mississippi Summer,Mississippi Summer,1971,88,mississippi summer,6.5,11,01/01/24 20:30
+tt0253197,movie,Sinner in the Summer Sun,Syndare i sommarsol,2001,98,sinner in the summer sun,4.7,171,01/01/24 20:30
+tt0255374,tvMovie,A Midsummer Night's Dream,A Midsummer Night's Dream,1981,156,a midsummer nights dream,7.3,35,01/01/24 20:30
+tt0259741,movie,Summer Holiday,Ha yat dik mo mo cha,2000,98,summer holiday,5.8,534,01/01/24 20:30
+tt0263321,movie,Roman Summer,Estate romana,2000,90,roman summer,6.2,335,01/01/24 20:30
+tt0265548,movie,A Summer in a Sea Shell,Poletje v skoljki,1985,95,a summer in a sea shell,7.2,470,01/01/24 20:30
+tt0265612,movie,Rain for a Dusty Summer,Rain for a Dusty Summer,1971,93,rain for a dusty summer,4.7,70,01/01/24 20:30
+tt0268668,video,Summer in Holland,Summer in Holland,1992,60,summer in holland,7.5,10,01/01/24 20:30
+tt0271062,tvMovie,Midsummer Rock,Midsummer Rock,1970,90,midsummer rock,6.9,23,01/01/24 20:30
+tt0271853,movie,A Savage Summer,Un été sauvage,1970,93,a savage summer,5.8,34,01/01/24 20:30
+tt0273191,tvMovie,Ellen De Generes: American Summer Documentary,Ellen De Generes: American Summer Documentary,2001,120,ellen de generes american summer documentary,8.5,37,01/01/24 20:30
+tt0274114,movie,Summer in Bethlehem,Summer in Bethlehem,1998,143,summer in bethlehem,7.8,1625,01/01/24 20:30
+tt0274917,movie,Sylvan Lake Summer,Sylvan Lake Summer,1990,95,sylvan lake summer,7.6,12,01/01/24 20:30
+tt0275353,movie,Fists of Freedom: The Story of the '68 Summer Games,Fists of Freedom: The Story of the '68 Summer Games,1999,59,fists of freedom the story of the 68 summer games,7.6,107,01/01/24 20:30
+tt0276538,movie,Summer of '69,Summer of '69,1969,55,summer of 69,5.8,24,01/01/24 20:30
+tt0277714,movie,Funny Car Summer,Funny Car Summer,1974,88,funny car summer,5.7,87,01/01/24 20:30
+tt0280128,movie,Summerdog,Summerdog,1977,90,summerdog,4.5,62,01/01/24 20:30
+tt0280933,movie,Passing Summer,Mein langsames Leben,2001,85,passing summer,6.5,540,01/01/24 20:30
+tt0283908,movie,Dangerous Summer,Baiga vasara,2000,112,dangerous summer,7.1,456,01/01/24 20:30
+tt0285199,tvMovie,How I Spent My Summer Vacation,How I Spent My Summer Vacation,1993,NA,how i spent my summer vacation,4.2,32,01/01/24 20:30
+tt0286162,movie,Stolen Summer,Stolen Summer,2002,91,stolen summer,6.5,2895,01/01/24 20:30
+tt0287481,movie,Secret of One Summer,Hitonatsu no himitsu,1979,72,secret of one summer,5.1,18,01/01/24 20:30
+tt0289114,movie,The Children's Midsummer Night's Dream,The Children's Midsummer Night's Dream,2001,115,the childrens midsummer nights dream,5.8,31,01/01/24 20:30
+tt0290875,movie,Summer,Summer,2002,93,summer,5.6,187,01/01/24 20:30
+tt0290916,movie,Summer Things,Embrassez qui vous voudrez,2002,103,summer things,6.5,2587,01/01/24 20:30
+tt0293280,movie,Indian Summer,Indian seommeo,2001,104,indian summer,6.3,132,01/01/24 20:30
+tt0297316,movie,Summer Love,O da Beni Seviyor,2001,106,summer love,6.5,342,01/01/24 20:30
+tt0297414,movie,Summertime,Sseommeotaim,2001,104,summertime,5.3,372,01/01/24 20:30
+tt0299430,tvMovie,1st Annual Mystery Science Theater 3000 Summer Blockbuster Review,1st Annual Mystery Science Theater 3000 Summer Blockbuster Review,1997,23,1st annual mystery science theater 3000 summer blockbuster review,7.6,254,01/01/24 20:30
+tt0303060,tvMovie,A Small Summer Party,A Small Summer Party,2001,50,a small summer party,7.5,84,01/01/24 20:30
+tt0303101,tvMovie,Summer of Love,Summer of Love,2001,90,summer of love,5,56,01/01/24 20:30
+tt0305589,tvMovie,Cold as Summer,Froid comme l'été,2002,88,cold as summer,7.1,173,01/01/24 20:30
+tt0305747,movie,The Last Summer,The Last Summer,2004,95,the last summer,6.3,85,01/01/24 20:30
+tt0307623,movie,From Spring to Summer,Utomlennoe solntse,1988,93,from spring to summer,6.3,32,01/01/24 20:30
+tt0311314,movie,I Stayed in Berlin All Summer,Ich bin den Sommer über in Berlin geblieben,1994,47,i stayed in berlin all summer,6.7,50,01/01/24 20:30
+tt0312808,movie,Indian Summer,Indian Summer,1987,97,indian summer,5.6,19,01/01/24 20:30
+tt0317079,movie,And Then Came Summer,And Then Came Summer,2000,115,and then came summer,4.6,485,01/01/24 20:30
+tt0322629,movie,Two Summers,Houve uma Vez Dois Verões,2002,75,two summers,7.1,809,01/01/24 20:30
+tt0323248,movie,A Midsummer Night's Rave,A Midsummer Night's Rave,2002,85,a midsummer nights rave,5,556,01/01/24 20:30
+tt0326383,movie,High Sky Summer,Wang Shouxian de xia tian,2002,87,high sky summer,5.7,30,01/01/24 20:30
+tt0326639,movie,Summer of Fun,Summer of Fun,1997,62,summer of fun,3.3,55,01/01/24 20:30
+tt0329701,movie,Two Summers,Two Summers,2002,118,two summers,6.6,41,01/01/24 20:30
+tt0334611,movie,Savage Summer,Verano salvaje,1980,85,savage summer,6.5,37,01/01/24 20:30
+tt0341600,tvMovie,Summer of Terror: The Real Son of Sam Story,Summer of Terror: The Real Son of Sam Story,2001,49,summer of terror the real son of sam story,6.6,17,01/01/24 20:30
+tt0345678,movie,Memories of the Olympic Summer of 1952,Memories of the Olympic Summer of 1952,1954,50,memories of the olympic summer of 1952,6,78,01/01/24 20:30
+tt0346525,movie,Arizona Summer,Arizona Summer,2004,102,arizona summer,4.6,297,01/01/24 20:30
+tt0347159,tvMovie,Hemingway: That Summer in Paris,Hemingway vs. Callaghan,2003,180,hemingway that summer in paris,6.4,52,01/01/24 20:30
+tt0348142,movie,Summer Storm,Summer Storm,2004,NA,summer storm,8,20,01/01/24 20:30
+tt0353671,movie,Summer in the Golden Valley,Ljeto u zlatnoj dolini,2003,105,summer in the golden valley,7.1,1183,01/01/24 20:30
+tt0355336,movie,A Cold Summer,A Cold Summer,2003,83,a cold summer,6,51,01/01/24 20:30
+tt0356154,movie,Wolf Summer,Ulvesommer,2003,87,wolf summer,5.9,1231,01/01/24 20:30
+tt0358303,movie,The Tenth Summer,Der zehnte Sommer,2003,98,the tenth summer,7.2,95,01/01/24 20:30
+tt0358605,movie,Eve in a Summer Dress,Natsufuku no Ibu,1984,98,eve in a summer dress,5.5,10,01/01/24 20:30
+tt0358981,movie,The Girls in Summer,El banat waal saif,1960,147,the girls in summer,6,109,01/01/24 20:30
+tt0361032,video,Hootie & the Blowfish: Summer Camp with Trucks,Hootie & the Blowfish: Summer Camp with Trucks,1995,116,hootie  the blowfish summer camp with trucks,7.2,24,01/01/24 20:30
+tt0362201,video,Summer Desire,Summer Desire,2001,85,summer desire,4.9,40,01/01/24 20:30
+tt0363857,movie,An Athens Summer Night's Dream,Oneiro kalokairinis nyhtas,1999,75,an athens summer nights dream,7.8,22,01/01/24 20:30
+tt0364144,movie,Olga's Summer,Olgas Sommer,2002,105,olgas summer,6,116,01/01/24 20:30
+tt0365908,video,Walking the Tracks: The Summer of Stand by Me,Walking the Tracks: The Summer of Stand by Me,2000,37,walking the tracks the summer of stand by me,7.5,208,01/01/24 21:30
+tt0367955,tvMovie,Last Summer,Last Summer,2000,52,last summer,7.7,11,01/01/24 21:30
+tt0372175,movie,A Summer Rain,Bir yaz yagmuru,1961,85,a summer rain,5.7,15,01/01/24 21:30
+tt0374546,movie,"Spring, Summer, Fall, Winter... and Spring",Bom yeoreum gaeul gyeoul geurigo bom,2003,103,spring summer fall winter and spring,8,87290,01/01/24 21:30
+tt0375604,video,The Kids Who Saved Summer,The Kids Who Saved Summer,2004,71,the kids who saved summer,5.4,86,01/01/24 21:30
+tt0378702,tvMovie,A Midsummer's Play,Sanct Hansaften-spil,1979,98,a midsummers play,7.6,10,01/01/24 21:30
+tt0381685,movie,A Boy's Summer in 1945,Utsukushii natsu kirishima,2002,118,a boys summer in 1945,7,66,01/01/24 21:30
+tt0382189,movie,My Summer of Love,My Summer of Love,2004,86,my summer of love,6.7,21941,01/01/24 21:30
+tt0382868,movie,Nasu: Summer in Andalusia,Nasu: Andalusia no natsu,2003,47,nasu summer in andalusia,7,438,01/01/24 21:30
+tt0384567,movie,Summer Thunder,Summer Thunder,2003,81,summer thunder,4.8,79,01/01/24 21:30
+tt0385006,movie,How the Garcia Girls Spent Their Summer,How the Garcia Girls Spent Their Summer,2005,128,how the garcia girls spent their summer,6.1,667,01/01/24 21:30
+tt0387005,tvMovie,2nd Annual Mystery Science Theater 3000 Summer Blockbuster Review,2nd Annual Mystery Science Theater 3000 Summer Blockbuster Review,1998,22,2nd annual mystery science theater 3000 summer blockbuster review,7.6,174,01/01/24 21:30
+tt0388446,movie,Summer with the Ghosts,Summer with the Ghosts,2003,85,summer with the ghosts,5.5,116,01/01/24 21:30
+tt0399811,movie,Summer Show,Um Show de Verão,2004,97,summer show,2.4,196,01/01/24 21:30
+tt0402303,video,Justine: A Midsummer Night's Dream,Justine: A Midsummer Night's Dream,1997,88,justine a midsummer nights dream,5,104,01/01/24 21:30
+tt0404469,movie,Summer Seductions,Summer Seductions,1988,95,summer seductions,4.2,16,01/01/24 21:30
+tt0408229,movie,Summer Solstice,Summer Solstice,2003,111,summer solstice,5.1,76,01/01/24 21:30
+tt0409878,video,Demon Summer,Demon Summer,2003,80,demon summer,3.1,178,01/01/24 21:30
+tt0411645,movie,Our Summer,Meän kesä,2004,57,our summer,8.8,27,01/01/24 21:30
+tt0411883,movie,Slutty Summer,Slutty Summer,2004,85,slutty summer,5.1,901,01/01/24 21:30
+tt0415183,movie,Summer Clouds,Nubes de verano,2004,100,summer clouds,6.2,415,01/01/24 21:30
+tt0420206,movie,Summer Storm,Sommersturm,2004,98,summer storm,7.3,14543,01/01/24 21:30
+tt0420229,movie,Summer Story,Summer Story,2004,76,summer story,6.5,64,01/01/24 21:30
+tt0422748,tvMovie,A Midsummer Night's Dream,A Midsummer Night's Dream,1999,94,a midsummer nights dream,7.4,41,01/01/24 21:30
+tt0431476,movie,A Passing Summer's Rain,Yaz Yagmuru,1994,98,a passing summers rain,4.3,15,01/01/24 21:30
+tt0434372,video,Summer of Tomorrows,Summer of Tomorrows,2003,110,summer of tomorrows,6.8,25,01/01/24 21:30
+tt0443123,movie,Midsummer Dream,El sueño de una noche de San Juan,2005,85,midsummer dream,4.6,426,01/01/24 21:30
+tt0443740,video,The Endless Summer Revisited,The Endless Summer Revisited,2000,70,the endless summer revisited,7,87,01/01/24 21:30
+tt0445508,movie,Summer Heat,Kuang lian shi,1968,91,summer heat,5.5,31,01/01/24 21:30
+tt0447601,video,Alice's Naked Summer,Alice's Naked Summer,2004,58,alices naked summer,4.3,10,01/01/24 21:30
+tt0449945,movie,Five Summer Stories,Five Summer Stories,1972,94,five summer stories,8.3,63,01/01/24 21:30
+tt0451204,video,The Snowman Who Saved Summer,The Snowman Who Saved Summer,2002,22,the snowman who saved summer,3.5,13,01/01/24 21:30
+tt0453369,movie,Her Summer,Her Summer,2004,80,her summer,6.1,36,01/01/24 21:30
+tt0455946,movie,My Brother's Summer,L'estate di mio fratello,2005,82,my brothers summer,6.8,106,01/01/24 21:30
+tt0457415,video,A Midsummer Night's Dream,A Midsummer Night's Dream,1999,89,a midsummer nights dream,5.4,42,01/01/24 21:30
+tt0457538,movie,Summer Running: The Race to Cure Breast Cancer,Summer Running: The Race to Cure Breast Cancer,2006,75,summer running the race to cure breast cancer,6.5,21,01/01/24 21:30
+tt0457596,video,The Monkees: Live Summer Tour,The Monkees: Live Summer Tour,2002,NA,the monkees live summer tour,8,39,01/01/24 21:30
+tt0466405,movie,XxxHOLiC the Movie: A Midsummer Night's Dream,Gekijôban XXXHolic Manatsu no yoru no yume,2005,60,xxxholic the movie a midsummer nights dream,7.1,739,01/01/24 21:30
+tt0466456,movie,Midsummer Madness,Midsummer Madness,2007,94,midsummer madness,5.9,609,01/01/24 21:30
+tt0469111,video,I'll Always Know What You Did Last Summer,I'll Always Know What You Did Last Summer,2006,92,ill always know what you did last summer,3.4,13566,01/01/24 21:30
+tt0469731,video,Ball Talk: Baseball's Voices of Summer,Ball Talk: Baseball's Voices of Summer,1989,50,ball talk baseballs voices of summer,5.3,16,01/01/24 21:30
+tt0469785,movie,A Limousine the Colour of Midsummer's Eve,Limuzins Janu nakts krasa,1981,84,a limousine the colour of midsummers eve,8.6,1326,01/01/24 21:30
+tt0469979,movie,Summer School,Summer School,2006,89,summer school,4.5,350,01/01/24 21:30
+tt0475255,movie,Dog Days of Summer,Dog Days of Summer,2007,88,dog days of summer,5.6,462,01/01/24 21:30
+tt0476007,movie,Revolution Summer,Revolution Summer,2007,90,revolution summer,5.4,92,01/01/24 21:30
+tt0477273,movie,Summer Rain,El camino de los ingleses,2006,118,summer rain,5.5,1256,01/01/24 21:30
+tt0477877,movie,Summer in Berlin,Sommer vorm Balkon,2005,107,summer in berlin,6.9,2967,01/01/24 21:30
+tt0479172,tvMovie,Summer Breeze: The Isley Brothers Greatest Hits Live,Summer Breeze: The Isley Brothers Greatest Hits Live,2005,60,summer breeze the isley brothers greatest hits live,6.4,12,01/01/24 21:30
+tt0479310,movie,Summer Nuts,Summer Nuts,2006,90,summer nuts,7.8,18,01/01/24 21:30
+tt0486020,movie,Summer Love,Summer Love,2006,94,summer love,3.5,582,01/01/24 21:30
+tt0489563,movie,Stealing Summer,Stealing Summer,2004,90,stealing summer,6.1,26,01/01/24 21:30
+tt0494969,movie,The Last Summer,De laatste zomer,2007,95,the last summer,6.9,440,01/01/24 21:30
+tt0498567,movie,Summer Time Machine Blues,Samâ taimu mashin burûsu,2005,107,summer time machine blues,7.1,1708,01/01/24 21:30
+tt0757898,movie,Summer Heat,Kaleldo,2006,95,summer heat,6.2,95,01/01/24 21:30
+tt0770724,movie,Boys of Summer,Boys of Summer,2006,95,boys of summer,8.7,52,01/01/24 21:30
+tt0770824,tvMovie,A Summer Day,Un jour d'été,2006,91,a summer day,6.4,312,01/01/24 21:30
+tt0776728,tvMovie,A Midsummer Night's Dream,A Midsummer Night's Dream,2005,157,a midsummer nights dream,8.4,17,01/01/24 21:30
+tt0791303,movie,A Summer in Genoa,Genova,2008,93,a summer in genoa,6,6807,01/01/24 21:30
+tt0794288,movie,The Summer of Stickleback,Hariyo no natsu,2006,99,the summer of stickleback,5.6,10,01/01/24 21:30
+tt0794374,movie,Summer Palace,Yi He Yuan,2006,158,summer palace,7.2,4407,01/01/24 21:30
+tt0806679,movie,Summer '04,Sommer '04,2006,97,summer 04,6.4,835,01/01/24 21:30
+tt0807963,video,That One Summer,That One Summer,2005,84,that one summer,6.9,38,01/01/24 21:30
+tt0808487,movie,Summercamp!,Summercamp!,2006,85,summercamp,6.6,152,01/01/24 21:30
+tt0819735,movie,Summerhood,Summerhood,2008,88,summerhood,6.4,680,01/01/24 21:30
+tt0819835,video,The Making of 'I'll Always Know What You Did Last Summer',The Making of 'I'll Always Know What You Did Last Summer',2006,27,the making of ill always know what you did last summer,4.2,70,01/01/24 21:30
+tt0825745,movie,Silly's Sweet Summer,Blöde Mütze!,2007,90,sillys sweet summer,6.8,238,01/01/24 21:30
+tt0827742,tvMovie,That Summer Day,That Summer Day,2006,53,that summer day,8.1,26,01/01/24 21:30
+tt0829134,movie,Tracing the Gray Summer,Inochi no chikyuu: Daiokishin no natsu,2001,NA,tracing the gray summer,7.6,25,01/01/24 21:30
+tt0834941,movie,A Plumm Summer,A Plumm Summer,2007,99,a plumm summer,6,434,01/01/24 21:30
+tt0836700,movie,Summer Hours,L'heure d'été,2008,103,summer hours,7.1,8234,01/01/24 21:30
+tt0844345,video,Summer's End: The Legend of Samhain,Summer's End: The Legend of Samhain,2001,72,summers end the legend of samhain,5.2,43,01/01/24 21:30
+tt0846318,movie,Summer of the Flying Saucer,Summer of the Flying Saucer,2008,86,summer of the flying saucer,5.1,68,01/01/24 21:30
+tt0847183,movie,That Special Summer,Kid Svensk,2007,90,that special summer,6,594,01/01/24 21:30
+tt0847527,movie,Summer Scars,Summer Scars,2007,68,summer scars,5.2,675,01/01/24 21:30
+tt0853002,movie,A Summer Song,A Summer Song,2010,NA,a summer song,6.8,10,01/01/24 21:30
+tt0859622,tvMovie,The Last Day of Summer,The Last Day of Summer,2007,88,the last day of summer,5.2,743,01/01/24 21:30
+tt0885520,movie,Eternal Summer,Sheng xia guang nian,2006,95,eternal summer,7,3244,01/01/24 21:30
+tt0891342,video,Punk Rock Summer Camp,Punk Rock Summer Camp,1999,82,punk rock summer camp,8.5,22,01/01/24 21:30
+tt0910904,movie,I Know How Many Runs You Scored Last Summer,I Know How Many Runs You Scored Last Summer,2008,80,i know how many runs you scored last summer,3.5,591,01/01/24 21:30
+tt0923703,movie,Once in a Summer,Geuhae yeoreum,2006,121,once in a summer,7.2,1125,01/01/24 21:30
+tt0928020,movie,Bad Boys of Summer,Bad Boys of Summer,2007,76,bad boys of summer,6.4,18,01/01/24 21:30
+tt0929733,tvMovie,Bros in 2 Summer,Bros in 2 Summer,1989,NA,bros in 2 summer,8.1,11,01/01/24 21:30
+tt0937373,movie,Summer Lover,Sappho,2008,88,summer lover,4.5,1882,01/01/24 21:30
+tt0937428,video,The Summer of the Massacre,The Summer of the Massacre,2006,72,the summer of the massacre,3.1,115,01/01/24 21:30
+tt0940584,movie,Boys of Summerville,Boys of Summerville,2008,96,boys of summerville,7,62,01/01/24 21:30
+tt0955214,tvMovie,30 Years of 'Last of the Summer Wine',30 Years of 'Last of the Summer Wine',2003,60,30 years of last of the summer wine,8.4,18,01/01/24 21:30
+tt0968327,video,T.M. Revolution: T.M.R. Live Revolution '02 - Best Summer Crush 2002,T.M. Revolution: T.M.R. Live Revolution '02 - Best Summer Crush 2002,2002,88,tm revolution tmr live revolution 02  best summer crush 2002,8.7,13,01/01/24 21:30
+tt0969368,movie,Before the Summer Passes Away,Yeoreumi gagi-jeone,2006,78,before the summer passes away,8,27,01/01/24 21:30
+tt0978695,movie,A Dream of the Summer Midnight,Roya-ye nime-shab-e tabestan,1994,90,a dream of the summer midnight,6.7,59,01/01/24 21:30
+tt0995757,movie,Summer Heat,Zomerhitte,2008,96,summer heat,5.3,1508,01/01/24 21:30
+tt1006945,movie,My Football Summer,Qi ji de xia tian,2006,103,my football summer,7.8,40,01/01/24 21:30
+tt10195976,movie,My Best Summer,Zui hao de wo men,2019,109,my best summer,6,343,01/01/24 21:30
+tt10199668,movie,Summer of Changsha,Liu Yu Tian,2019,120,summer of changsha,5.8,313,01/01/24 21:30
+tt10224134,tvMovie,A Summer Romance,A Summer Romance,2019,87,a summer romance,6.7,2021,01/01/24 21:30
+tt1022603,movie,500 Days of Summer,(500) Days of Summer,2009,95,500 days of summer,7.7,564894,01/01/24 21:30
+tt10229338,video,Samantha's Sexy Summer,Samantha's Sexy Summer,2006,75,samanthas sexy summer,4.2,14,01/01/24 21:30
+tt10229982,movie,My First Summer,My First Summer,2020,80,my first summer,6.7,2763,01/01/24 21:30
+tt10345024,tvMovie,A Taste of Summer,A Taste of Summer,2019,82,a taste of summer,6.2,1317,01/01/24 21:30
+tt10384514,movie,A Midsummer Night's Dream,A Midsummer Night's Dream,2019,180,a midsummer nights dream,8.4,640,01/01/24 21:30
+tt1042913,tvMovie,Summerhill,Summerhill,2008,120,summerhill,7.6,400,01/01/24 21:30
+tt10449234,movie,Yang and His Summer,Hu yang de xia tian,2017,93,yang and his summer,6.4,12,01/01/24 21:30
+tt10457128,movie,Summer of 85,Été 85,2020,101,summer of 85,6.9,13782,01/01/24 21:30
+tt10483210,tvMovie,Ruisrock: 50 Summers by the Sea,Ruisrock - 50 kesää meren rannalla,2019,50,ruisrock 50 summers by the sea,6.1,14,01/01/24 21:30
+tt10488396,movie,Summer Detective,Ping Yuan Shang De Xia Luo Ke,2019,98,summer detective,6.9,572,01/01/24 21:30
+tt10492998,movie,I Hate Summer,Odio l'estate,2020,110,i hate summer,6.7,3715,01/01/24 21:30
+tt10498020,movie,Rural Summer Vacation,Rural Summer Vacation,2019,92,rural summer vacation,5.4,11,01/01/24 21:30
+tt1052058,tvMovie,The Wilder Summer,The Wilder Summer,1983,54,the wilder summer,8.9,31,01/01/24 21:30
+tt10580248,video,a-ha: MTV Unplugged - Summer Solstice,a-ha: MTV Unplugged - Summer Solstice,2017,115,aha mtv unplugged  summer solstice,8.6,21,01/01/24 21:30
+tt10593750,movie,The Chaos Class: Summer Games,Hababam Sinifi Yaz Oyunlari,2021,108,the chaos class summer games,3.2,734,01/01/24 21:30
+tt10629634,movie,Summer Blur,Hannan xia ri,2020,88,summer blur,6.6,33,01/01/24 21:30
+tt10720816,tvMovie,All Summer Long,All Summer Long,2019,84,all summer long,6.4,1134,01/01/24 21:30
+tt10785310,movie,Three Summers,Três Verões,2019,94,three summers,6.4,610,01/01/24 21:30
+tt10886246,movie,French Touch: Girls of Summer,French Touch: Girls of Summer,2019,102,french touch girls of summer,5.8,44,01/01/24 21:30
+tt10905720,movie,The Last Page of Summer,The Last Page of Summer,2020,NA,the last page of summer,7.9,19,01/01/24 21:30
+tt1091844,movie,Summer Vacation,Se mah tatili,1977,70,summer vacation,7.8,46,01/01/24 21:30
+tt10933120,video,Hyperdimension Neptunia the Animation: Neptune's Summer Vacation,Choujigen Game Neptune The Animation: Nep no Natsuyasumi,2019,26,hyperdimension neptunia the animation neptunes summer vacation,7.1,17,01/01/24 21:30
+tt1095036,movie,The Third Summer,The Third Summer,2007,55,the third summer,6.1,11,01/01/24 21:30
+tt10959454,movie,Bloody Summer Camp,Bloody Summer Camp,2021,125,bloody summer camp,3.9,735,01/01/24 21:30
+tt10998174,tvMovie,Just for the Summer,Just for the Summer,2020,91,just for the summer,6.1,1136,01/01/24 21:30
+tt11188104,movie,Farewell Summer,Vinh Biêt Mùa Hè,1992,99,farewell summer,7.9,13,01/01/24 21:30
+tt11273452,movie,One Summer Story,Kodomo wa wakatte agenai,2020,138,one summer story,6.9,120,01/01/24 21:30
+tt11275350,movie,A Beautiful Summer,Le bel été,2019,80,a beautiful summer,5.2,24,01/01/24 21:30
+tt11282142,movie,Summerwar,Sommerkrieg,2019,80,summerwar,7.6,37,01/01/24 21:30
+tt1130773,movie,Summer's Tail,Xia tian de wei ba,2007,98,summers tail,6.5,194,01/01/24 21:30
+tt1132578,movie,Summer Holiday,Boogie,2008,103,summer holiday,7,2229,01/01/24 21:30
+tt1135054,tvMovie,A Real Summer,A Real Summer,2007,45,a real summer,7.3,171,01/01/24 21:30
+tt11394288,movie,Summer White,Blanco de verano,2020,85,summer white,6.6,243,01/01/24 21:30
+tt11394340,movie,Summertime,Summertime,2020,95,summertime,6.4,543,01/01/24 21:30
+tt11422728,movie,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","Summer of Soul (...Or, When the Revolution Could Not Be Televised)",2021,118,summer of soul or when the revolution could not be televised,8,14058,01/01/24 21:30
+tt1169847,movie,Summer,Sommer,2007,82,summer,5.7,13,01/01/24 21:30
+tt1179773,movie,Summer Days with Coo,Kappa no Kû to natsuyasumi,2007,138,summer days with coo,7.4,2181,01/01/24 21:30
+tt1179793,movie,Summer Book,Tatil Kitabi,2008,92,summer book,6.3,1126,01/01/24 21:30
+tt1182617,video,One Summer in Austin: The Story of Filming 'A Scanner Darkly',One Summer in Austin: The Story of Filming 'A Scanner Darkly',2006,26,one summer in austin the story of filming a scanner darkly,6.9,103,01/01/24 21:30
+tt1186025,movie,SOS: Summer of Suspense,S.O.S Svartskjær,2008,87,sos summer of suspense,5.7,215,01/01/24 21:30
+tt11918302,video,Please Tell Me! Galko-chan OAD: Is Summer Vacation Real?,Oshiete! Galko-chan OAD: Natsuyasumitte Hontou Desu ka?,2017,28,please tell me galkochan oad is summer vacation real,6.3,10,01/01/24 21:30
+tt1194618,movie,Moomin and Midsummer Madness,Muumi ja vaarallinen juhannus,2008,88,moomin and midsummer madness,5.5,239,01/01/24 21:30
+tt11958732,movie,Hilda's Short Summer,Las vacaciones de Hilda,2021,88,hildas short summer,6.3,18,01/01/24 21:30
+tt1196601,movie,Caesar and Otto's Summer Camp Massacre,Caesar and Otto's Summer Camp Massacre,2009,76,caesar and ottos summer camp massacre,3.5,271,01/01/24 21:30
+tt1196701,movie,A Summer in the Cage,A Summer in the Cage,2007,82,a summer in the cage,7.2,88,01/01/24 21:30
+tt1198144,movie,Summer,Summer,2008,83,summer,6.7,1081,01/01/24 21:30
+tt1202539,movie,A No-Hit No-Run Summer,Un été sans point ni coup sûr,2008,104,a nohit norun summer,6.8,509,01/01/24 21:30
+tt1209359,movie,Summer,Sommer,2008,99,summer,4.9,462,01/01/24 21:30
+tt12181184,movie,Summer Rebels,Summer Rebels,2020,93,summer rebels,6.1,102,01/01/24 21:30
+tt1230460,movie,Imagine a School... Summerhill,Imagine a School... Summerhill,2008,67,imagine a school summerhill,7.9,14,01/01/24 21:30
+tt1230564,tvMovie,Premiere: Inside the Summer Blockbusters,Premiere: Inside the Summer Blockbusters,1989,60,premiere inside the summer blockbusters,6.6,16,01/01/24 21:30
+tt12344312,movie,Summer with the Guys,Summer with the Guys,2023,NA,summer with the guys,4.5,182,01/01/24 21:30
+tt1235446,movie,Summer Breeze,Summer Breeze,2008,NA,summer breeze,6.9,24,01/01/24 21:30
+tt1235833,movie,Bombay Summer,Bombay Summer,2009,102,bombay summer,5.7,117,01/01/24 21:30
+tt1242544,movie,Last Day of Summer,Last Day of Summer,2009,85,last day of summer,5.1,952,01/01/24 21:30
+tt1245539,movie,Summertime Blues,Summertime Blues,2009,116,summertime blues,6.2,204,01/01/24 21:30
+tt1248987,movie,Then Summer Came,Tamio no shiawase,2008,118,then summer came,6.1,70,01/01/24 21:30
+tt12491724,movie,Summer to Winter,Summer to Winter,2014,91,summer to winter,5.1,12,01/01/24 21:30
+tt12517576,movie,A Midsummer Night's Dream,A Midsummer Night's Dream,2016,171,a midsummer nights dream,6.6,59,01/01/24 21:30
+tt12553244,movie,Sisters: The Summer We Found Our Superpowers,Tottori! Sommeren vi var alene,2020,78,sisters the summer we found our superpowers,6.9,176,01/01/24 21:30
+tt12567476,movie,Sune - Mission: Midsummer,Sune - Uppdrag: Midsommar,2021,86,sune  mission midsummer,5,320,01/01/24 21:30
+tt1260689,movie,Summer 2007,Summer 2007,2008,166,summer 2007,6.4,265,01/01/24 21:30
+tt1262418,tvMovie,Summerhill at 70,Summerhill at 70,1992,52,summerhill at 70,6.9,20,01/01/24 21:30
+tt1268804,movie,Lebanon Summer 2006,Lebanon Summer 2006,2007,52,lebanon summer 2006,8.3,12,01/01/24 21:30
+tt12699576,movie,Final Summer,Final Summer,2023,82,final summer,3.4,488,01/01/24 21:30
+tt1276988,movie,Summer Eleven,Summer Eleven,2010,93,summer eleven,6.3,403,01/01/24 21:30
+tt1277733,tvMovie,Secrets of the Summer House,Summer House,2008,90,secrets of the summer house,4.9,413,01/01/24 21:30
+tt12826450,movie,A Corsican Summer,I comete,2021,124,a corsican summer,5.5,255,01/01/24 21:30
+tt1285010,movie,Summer's Moon,Summer's Blood,2009,91,summers moon,4.4,3384,01/01/24 21:30
+tt12900148,movie,The Longest Summer in America,The Longest Summer in America,2018,62,the longest summer in america,5.8,10,01/01/24 21:30
+tt12915652,video,The Best of SummerSlam,The Best of WWE: Best of SummerSlam,2020,232,the best of summerslam,4.3,11,01/01/24 21:30
+tt12931780,movie,A Life of Endless Summers: The Bruce Brown Story,A Life of Endless Summers: The Bruce Brown Story,2020,88,a life of endless summers the bruce brown story,6.4,42,01/01/24 21:30
+tt1293829,movie,A Midsummer Comedy,Äntligen midsommar!,2009,86,a midsummer comedy,4.3,527,01/01/24 21:30
+tt1296876,video,Nickelodeon: 'the Last Day of Summer' - Behind the Scenes,Nickelodeon: 'The Last Day of Summer' - Behind the Scenes,2007,10,nickelodeon the last day of summer  behind the scenes,7.6,13,01/01/24 21:30
+tt1304582,movie,Summerchild,Kesän lapsi,2007,60,summerchild,8.1,12,01/01/24 21:30
+tt1305869,movie,A Midsummer of Love,Sommaren med Göran: En midsommarnattskomedi,2009,97,a midsummer of love,5.4,3417,01/01/24 21:30
+tt13067004,movie,Last Summer,Geçen Yaz,2021,101,last summer,6.3,3519,01/01/24 21:30
+tt1307066,movie,Once Upon a Summer,Once Upon a Summer,2009,98,once upon a summer,6.3,93,01/01/24 21:30
+tt13142638,movie,The Queer Shakespeare Project: A Midsummer Night's Dream,The Queer Shakespeare Project: A Midsummer Night's Dream,2020,188,the queer shakespeare project a midsummer nights dream,7,13,01/01/24 21:30
+tt1316079,movie,Summer People,Summer People,2008,67,summer people,6.2,10,01/01/24 21:30
+tt13259672,movie,Atomic Summer,L'été nucléaire,2020,83,atomic summer,4.8,121,01/01/24 21:30
+tt1326825,movie,My Sixteenth Summer,My Sixteenth Summer,2009,72,my sixteenth summer,8.1,10,01/01/24 21:30
+tt1326956,movie,Our Summer in Tehran,Our Summer in Tehran,2009,NA,our summer in tehran,8.1,36,01/01/24 21:30
+tt13282898,movie,An Unusual Summer,An Unusual Summer,2020,80,an unusual summer,6.8,20,01/01/24 21:30
+tt13293222,movie,Summer Dark,Summer Dark,2010,90,summer dark,3.8,13,01/01/24 21:30
+tt1329355,movie,Girls of Summer,Girls of Summer,2008,87,girls of summer,4.5,78,01/01/24 21:30
+tt1332528,video,Home and Away: The Official Summer Bay Special,Home and Away: The Official Summer Bay Special,1996,80,home and away the official summer bay special,7.2,52,01/01/24 21:30
+tt1334587,movie,The Catfish Summer,Poslední plavky,2007,100,the catfish summer,4,110,01/01/24 21:30
+tt13362120,tvMovie,Sharkadelic Summer,Sharkadelic Summer,2020,NA,sharkadelic summer,5.6,15,01/01/24 21:30
+tt1339559,movie,My Summer with Amanda,Mi verano con Amanda,2008,92,my summer with amanda,5.4,133,01/01/24 21:30
+tt13430466,movie,One Summer Night,Eoneu yeoreumnal bame,2016,98,one summer night,5.3,156,01/01/24 21:30
+tt1344616,tvMovie,Summer Hit,Hit poletja,2008,91,summer hit,6.4,65,01/01/24 21:30
+tt1356920,movie,A Midsummer Night's Dream,Manatsu no yo no yume,2009,105,a midsummer nights dream,5.6,24,01/01/24 21:30
+tt13582754,movie,The Longest Summer,The Longest Summer,2019,94,the longest summer,6,10,01/01/24 21:30
+tt13622782,tvMovie,Long Hot Summers: The Story of the Style Council,Long Hot Summers: The Story of the Style Council,2020,75,long hot summers the story of the style council,7.2,151,01/01/24 21:30
+tt13642540,movie,Till the Summer Comes,V lete ti poviem,2022,111,till the summer comes,3.9,97,01/01/24 21:30
+tt1364480,video,Dead Summer,Dead Summer,2005,71,dead summer,2.3,20,01/01/24 21:30
+tt1365482,movie,Martino's Summer,L'estate di Martino,2010,90,martinos summer,6.2,168,01/01/24 21:30
+tt1370426,movie,Costa Rican Summer,Costa Rican Summer,2010,89,costa rican summer,2.7,806,01/01/24 21:30
+tt13735338,video,Rifftrax: Santa's Summer House,Rifftrax: Santa's Summer House,2018,NA,rifftrax santas summer house,6.1,29,01/01/24 21:30
+tt13745532,video,Saint Laurent: Summer of '21,Saint Laurent: Summer of '21,2020,8,saint laurent summer of 21,6.5,335,01/01/24 21:30
+tt13757540,movie,The Door Into Summer,Natsu e no tobira - Kimi no iru mirai e - : The Door Into Summer,2021,118,the door into summer,6.4,1223,01/01/24 21:30
+tt1381271,tvMovie,That Given Summer,Cet été-là,2009,84,that given summer,6.2,30,01/01/24 21:30
+tt1386503,movie,Seeds of Summer,Zirei Kayitz,2007,63,seeds of summer,7.6,19,01/01/24 21:30
+tt13884328,movie,Summer,Leto,2021,109,summer,7.2,25,01/01/24 21:30
+tt14016562,tvMovie,Last Summer of Nathan Lee,Last Summer of Nathan Lee,2023,92,last summer of nathan lee,7.2,26,01/01/24 21:30
+tt1404653,movie,The Last Summer of La Boyita,El último verano de la Boyita,2009,93,the last summer of la boyita,7.1,988,01/01/24 21:30
+tt14071634,movie,Red Horse in the Summer Sky,Red Horse in the Summer Sky,2022,98,red horse in the summer sky,5.4,31,01/01/24 21:30
+tt1408355,movie,Boys of Summer,Boys of Summer,2010,95,boys of summer,7.6,46,01/01/24 21:30
+tt1418860,movie,Crime Scene: The Bobby Ray Summers Story,Crime Scene: The Bobby Ray Summers Story,2008,76,crime scene the bobby ray summers story,8,17,01/01/24 21:30
+tt1422201,tvMovie,One Hot Summer,One Hot Summer,2009,89,one hot summer,4.1,266,01/01/24 21:30
+tt14442616,movie,Cruel Summer,Cruel Summer,2021,80,cruel summer,3.3,121,01/01/24 21:30
+tt14456750,movie,Phantom Summer,Verão Fantasma,2022,106,phantom summer,6,54,01/01/24 21:30
+tt1448625,movie,The Old Summer Palace,Yuan Ming Yuan,2006,93,the old summer palace,7.6,80,01/01/24 21:30
+tt14550346,movie,Last Summer,L'été dernier,2023,104,last summer,6.3,2231,01/01/24 21:30
+tt14619078,movie,My Soul Summer,My Soul Summer,2022,115,my soul summer,6.5,55,01/01/24 21:30
+tt14625190,movie,It's a Summer Film!,Summer film ni notte,2020,97,its a summer film,6.8,1234,01/01/24 21:30
+tt14673732,movie,Rise Again: Tulsa and the Red Summer,Rise Again: Tulsa and the Red Summer,2021,90,rise again tulsa and the red summer,7,93,01/01/24 21:30
+tt1474276,movie,Summer Wars,Samâ wôzu,2009,114,summer wars,7.4,31999,01/01/24 21:30
+tt14853762,movie,Summer Nights,Summer Nights,2021,53,summer nights,8.5,62,01/01/24 21:30
+tt1486196,movie,Summer Coda,Summer Coda,2010,108,summer coda,6.3,563,01/01/24 21:30
+tt15078122,movie,Our Eternal Summer,L'été l'éternité,2021,75,our eternal summer,5.4,357,01/01/24 21:30
+tt15090592,movie,Andrew Orozco 3: Summer's Here,Andrew Orozco 3: Summer's Here,2020,147,andrew orozco 3 summers here,4.2,15,01/01/24 21:30
+tt15114686,tvMovie,Reckless Summer,Clèves,2021,109,reckless summer,6.3,410,01/01/24 21:30
+tt15130246,movie,Summer of the Wolf,Summer of the Wolf,2023,NA,summer of the wolf,8,45,01/01/24 21:30
+tt1519640,movie,Hot Summer Days,Chuen sing yit luen - yit lat lat,2010,93,hot summer days,6.1,940,01/01/24 21:30
+tt15202038,tvMovie,Sweet Pecan Summer,Sweet Pecan Summer,2021,84,sweet pecan summer,6.3,943,01/01/24 21:30
+tt15208276,movie,Summering,Summering,2022,85,summering,4.4,471,01/01/24 21:30
+tt15208950,tvMovie,One Summer,One Summer,2021,84,one summer,7.1,1225,01/01/24 21:30
+tt15253150,movie,Notes on a Summer,Notas sobre un verano,2023,83,notes on a summer,5.6,129,01/01/24 21:30
+tt1527656,movie,Long Hot Summer,Long Hot Summer,2006,68,long hot summer,7.5,17,01/01/24 21:30
+tt1537424,movie,Bummer Summer,Bummer Summer,2010,78,bummer summer,7.1,64,01/01/24 21:30
+tt1538947,movie,Pinuccio Lovero - A Midsummer Death's Dream,Pinuccio Lovero - Sogno di una morte di mezza estate,2008,60,pinuccio lovero  a midsummer deaths dream,6.4,41,01/01/24 21:30
+tt1545098,movie,Kenny Chesney: Summer in,Kenny Chesney: Summer in 3D,2010,99,kenny chesney summer in,8,69,01/01/24 21:30
+tt1547230,movie,Judy Moody and the Not Bummer Summer,Judy Moody and the Not Bummer Summer,2011,91,judy moody and the not bummer summer,4.3,3467,01/01/24 21:30
+tt1548551,movie,The Twelfth Summer,Dvenadtsatoe leto,2008,80,the twelfth summer,5.9,25,01/01/24 21:30
+tt15535192,movie,A French Summer,Zomer in Frankrijk,2023,NA,a french summer,5.3,155,01/01/24 21:30
+tt15568240,movie,A Summer in Boujad,Un été à Boujad,2022,80,a summer in boujad,7.5,28,01/01/24 21:30
+tt1566405,movie,Summer Pasture,Summer Pasture,2010,85,summer pasture,7.8,86,01/01/24 21:30
+tt1572162,video,Not a Love Story: Making (500) Days of Summer,Not a Love Story: Making (500) Days of Summer,2009,30,not a love story making 500 days of summer,7.7,53,01/01/24 21:30
+tt15783304,movie,This One Summer,Cet été-là,2022,99,this one summer,5.5,224,01/01/24 21:30
+tt1579944,movie,Summer Window,Fenster zum Sommer,2011,96,summer window,6.4,663,01/01/24 21:30
+tt1585660,movie,Summertime,Summertime,2011,90,summertime,6.6,41,01/01/24 21:30
+tt1588875,movie,How I Ended This Summer,Kak ya provyol etim letom,2010,130,how i ended this summer,6.9,7026,01/01/24 21:30
+tt16027742,video,Summer Nude '13: Making Movie,Summer Nude '13: Making Movie,2013,NA,summer nude 13 making movie,9.8,61,01/01/24 21:30
+tt1606369,movie,Summer Whispers,Yeoreum soksakip,2008,96,summer whispers,7.6,82,01/01/24 21:30
+tt1610395,movie,Damn Summer,Verano maldito,2011,73,damn summer,6.3,27,01/01/24 21:30
+tt1626240,movie,Summertime Christmas,Summertime Christmas,2010,110,summertime christmas,3,121,01/01/24 21:30
+tt1630248,movie,A Summer Family,Natsu no kazoku,2010,78,a summer family,5.4,16,01/01/24 21:30
+tt1630606,movie,The Door Into Summer,Natsu e no tobira,1981,59,the door into summer,5.7,109,01/01/24 21:30
+tt16311394,movie,Summer to Come,Summer to Come,2022,74,summer to come,5.1,158,01/01/24 21:30
+tt16442822,movie,"Love to Love You, Donna Summer","Love to Love You, Donna Summer",2023,107,love to love you donna summer,6.5,1235,01/01/24 21:30
+tt1666012,movie,Karafuto 1945 Summer Hyosetsu no mon,Karafuto 1945 Summer Hyosetsu no mon,1974,119,karafuto 1945 summer hyosetsu no mon,7.1,23,01/01/24 21:30
+tt16769394,movie,Summer Time: Travel Back,Artek. Bolshoe puteshestvie,2022,105,summer time travel back,4.2,273,01/01/24 21:30
+tt1684561,movie,Summer Song,Summer Song,2011,NA,summer song,8.2,95,01/01/24 21:30
+tt1686125,movie,Verity's Summer,Verity's Summer,2013,102,veritys summer,5.6,54,01/01/24 21:30
+tt16944826,movie,That Kind of Summer,Un été comme ça,2022,137,that kind of summer,6.1,733,01/01/24 21:30
+tt16986596,movie,Sons of Summer,Sons of Summer,2023,88,sons of summer,4.4,2485,01/01/24 21:30
+tt1699753,tvMovie,Summer Camp,Summer Camp,2010,30,summer camp,6.6,65,01/01/24 21:30
+tt17037988,movie,Last Flamingo of the Red Summer Sunset,Last Flamingo of the Red Summer Sunset,2024,80,last flamingo of the red summer sunset,8.7,10,01/01/24 21:30
+tt1710581,tvMovie,Summer Camp,"Merci papa, merci maman",2010,86,summer camp,5.8,37,01/01/24 21:30
+tt1714758,movie,Summer of Goliath,Verano de Goliat,2010,78,summer of goliath,5.8,133,01/01/24 21:30
+tt1718147,movie,Wonderful Summer,Cudowne lato,2010,92,wonderful summer,5.8,149,01/01/24 21:30
+tt1730140,movie,Summerland,Sumarlandið,2010,85,summerland,6,126,01/01/24 21:30
+tt17336922,movie,Summer,Ye xia tian,2022,114,summer,4.2,24,01/01/24 21:30
+tt17382524,movie,"The Tunnel to Summer, the Exit of Goodbyes","Natsu e no tunnel, Sayonara no deguchi",2022,85,the tunnel to summer the exit of goodbyes,7,2659,01/01/24 21:30
+tt1740053,movie,A Burning Hot Summer,Un été brûlant,2011,95,a burning hot summer,5,2365,01/01/24 21:30
+tt1753865,movie,Summer Games,Giochi d'estate,2011,101,summer games,6.5,441,01/01/24 21:30
+tt1754192,tvMovie,A Good Summer,Ein guter Sommer,2011,90,a good summer,7,66,01/01/24 21:30
+tt17542524,movie,Shall I Compare You to a Summer's Day?,Bashtaalak sa'at,2022,66,shall i compare you to a summers day,5.9,175,01/01/24 21:30
+tt1754719,movie,The Summer of 69,The Summer of 69,2009,NA,the summer of 69,7.9,14,01/01/24 21:30
+tt1758771,movie,Summer of Dreams,Summer of Dreams,2011,123,summer of dreams,5.3,19,01/01/24 21:30
+tt1764618,movie,Summertime Killers,Summertime Killers,2011,33,summertime killers,6,11,01/01/24 21:30
+tt1773398,movie,Summer in Provence,Summer in Provence,2012,90,summer in provence,6.1,17,01/01/24 21:30
+tt17736862,movie,My Summer in Ohio,My Summer in Ohio,2022,88,my summer in ohio,8.2,10,01/01/24 21:30
+tt1785685,movie,Year Without a Summer,Wu xia zhi nian,2010,87,year without a summer,6.5,38,01/01/24 21:30
+tt1795595,movie,Exit 91 Summerland,Exit 91 Summerland,2011,80,exit 91 summerland,2.7,14,01/01/24 21:30
+tt1805502,movie,"WWE Summerslam: The Complete Anthology, Vol. 2","WWE Summerslam: The Complete Anthology, Vol. 2",2009,NA,wwe summerslam the complete anthology vol 2,6.6,21,01/01/24 21:30
+tt18291400,movie,My Blue Summer,An lian: Ju sheng huai nan,2022,98,my blue summer,6.2,98,01/01/24 21:30
+tt1830901,movie,"WWE: Summerslam - The Complete Anthology, Vol. 1","WWE: Summerslam - The Complete Anthology, Vol. 1",2009,NA,wwe summerslam  the complete anthology vol 1,7.4,21,01/01/24 21:30
+tt1836213,movie,"WWE Summerslam: The Complete Anthology, Vol. 3","WWE Summerslam: The Complete Anthology, Vol. 3",2009,NA,wwe summerslam the complete anthology vol 3,7.1,27,01/01/24 21:30
+tt18502434,movie,Fez Summer '55,Fez Summer '55,2023,NA,fez summer 55,8.2,23,01/01/24 21:30
+tt1855182,video,Early One Summer,Early One Summer,2009,11,early one summer,5.8,23,01/01/24 21:30
+tt1864368,movie,Indian Summer,Indian Summer,2011,70,indian summer,6.9,10,01/01/24 21:30
+tt1864491,movie,Stealing Summers,Stealing Summers,2011,75,stealing summers,4.9,94,01/01/24 21:30
+tt1864571,movie,"WWE Summerslam: The Complete Anthology, Vol. 4","WWE Summerslam: The Complete Anthology, Vol. 4",2008,NA,wwe summerslam the complete anthology vol 4,6.2,24,01/01/24 21:30
+tt1874779,movie,The Summer of Massacre,The Summer of Massacre,2012,98,the summer of massacre,2.7,337,01/01/24 21:30
+tt1886770,movie,Silent Summer,Stiller Sommer,2013,89,silent summer,5.7,72,01/01/24 21:30
+tt1896818,movie,Summer of the Chew Toy Soul,Summer of the Chew Toy Soul,2011,70,summer of the chew toy soul,7.4,14,01/01/24 21:30
+tt1905005,movie,Rage: Midsummer's Eve,Rage: Midsummer's Eve,2015,90,rage midsummers eve,3.4,308,01/01/24 21:30
+tt1961265,movie,The Summer Side,Del lado del verano,2012,100,the summer side,5.8,136,01/01/24 21:30
+tt19715962,movie,Darker Shades of Summer,Darker Shades of Summer,2023,80,darker shades of summer,2.5,479,01/01/24 21:30
+tt19768694,movie,Summer Scars,Nos cérémonies,2022,104,summer scars,5.7,218,01/01/24 21:30
+tt19770590,movie,Summer of 1941,Leto 1941 goda,2022,112,summer of 1941,6,147,01/01/24 21:30
+tt1980107,movie,Endless Summer,Endless Summer,2013,73,endless summer,4.6,16,01/01/24 21:30
+tt1980108,movie,Summer Promise,Summer Promise,2011,60,summer promise,8,186,01/01/24 21:30
+tt1989593,movie,Red Hook Summer,Red Hook Summer,2012,121,red hook summer,5.3,1956,01/01/24 21:30
+tt2005307,movie,Orahan Summer,Orahan Summer,2008,NA,orahan summer,4.5,11,01/01/24 21:30
+tt2009504,movie,Summer with Kuro,Kuro ga ita natsu,1985,80,summer with kuro,6.5,32,01/01/24 21:30
+tt20114622,tvMovie,Caribbean Summer,Caribbean Summer,2022,84,caribbean summer,6.4,776,01/01/24 21:30
+tt20234746,movie,Sequel: Cruel Summer - Part II,Sequel: Cruel Summer - Part II,2022,NA,sequel cruel summer  part ii,5,41,01/01/24 21:30
+tt2039331,movie,And They Call It Summer,E la chiamano estate,2012,89,and they call it summer,4.4,452,01/01/24 21:30
+tt2050499,movie,A Stormy Summer Night,Orage,2015,83,a stormy summer night,4.7,124,01/01/24 21:30
+tt2051930,movie,Midsummer Nightmares,Midsummer Nightmares,2011,NA,midsummer nightmares,5.4,47,01/01/24 21:30
+tt20562058,movie,Project Summer,Project Summer,2022,92,project summer,5.7,36,01/01/24 21:30
+tt20600968,video,#MST3KMindlessSummer Livestream III: BLOOD WATERS of DR. Z,#MST3KMindlessSummer Livestream III: BLOOD WATERS of DR. Z,2021,NA,mst3kmindlesssummer livestream iii blood waters of dr z,6.1,10,01/01/24 21:30
+tt2066133,movie,The Wine of Summer,The Wine of Summer,2013,90,the wine of summer,5.2,472,01/01/24 21:30
+tt2072876,tvMovie,A Midsummer Night's Dream,A Midsummer Night's Dream,1959,90,a midsummer nights dream,9.1,124,01/01/24 21:30
+tt2075088,movie,By Summer's End,Ad Sof Ha-kaitz,2011,95,by summers end,6.6,28,01/01/24 21:30
+tt2075234,movie,Summer of Giacomo,L'estate di Giacomo,2011,78,summer of giacomo,6.3,256,01/01/24 21:30
+tt20769484,movie,Summer with Hope,Summer with Hope,2022,99,summer with hope,5.8,49,01/01/24 21:30
+tt20784210,tvMovie,Lego Star Wars Summer Vacation,LEGO Star Wars Summer Vacation,2022,45,lego star wars summer vacation,5.6,1785,01/01/24 21:30
+tt21138358,movie,Párty Hárder: Summer Massacre,Párty Hárder: Summer Massacre,2022,100,párty hárder summer massacre,5.8,280,01/01/24 21:30
+tt21151850,movie,Edge of Summer,Edge of Summer,2024,98,edge of summer,8.1,17,01/01/24 21:30
+tt21158228,tvMovie,Summer at Charlotte's,Summer at Charlotte's,2023,82,summer at charlottes,6.4,62,01/01/24 21:30
+tt21197442,video,I Know What You Did Last Summer: Deleted Scenes,I Know What You Did Last Summer: Deleted Scenes,2022,NA,i know what you did last summer deleted scenes,7.3,10,01/01/24 21:30
+tt21197450,video,I Know What You Did Last Summer: Alternate Ending,I Know What You Did Last Summer: Alternate Ending,2022,NA,i know what you did last summer alternate ending,6.5,20,01/01/24 21:30
+tt21206302,movie,The Sound of Summer,The Sound of Summer,2022,75,the sound of summer,5.5,100,01/01/24 21:30
+tt21267296,movie,Hell of a Summer,Hell of a Summer,2023,88,hell of a summer,6.9,107,01/01/24 21:30
+tt21272582,movie,Dying in Ibiza (A Film in Three Summers),Mourir à Ibiza (Un film en trois étés),2022,107,dying in ibiza a film in three summers,6.2,49,01/01/24 21:30
+tt2140389,video,Shameless: Season 2 Sneak Peak - One Hot Summer,Shameless: Season 2 Sneak Peak - One Hot Summer,2011,5,shameless season 2 sneak peak  one hot summer,7.5,25,01/01/24 21:30
+tt2149137,movie,Snow White: A Deadly Summer,Snow White: A Deadly Summer,2012,83,snow white a deadly summer,2.3,797,01/01/24 21:30
+tt2158752,tvMovie,Gershwin's Summertime: The Song That Conquered the World,Gershwin's Summertime: The Song That Conquered the World,2011,59,gershwins summertime the song that conquered the world,7.7,13,01/01/24 21:30
+tt2179116,movie,The Kings of Summer,The Kings of Summer,2013,95,the kings of summer,7.1,84748,01/01/24 21:30
+tt21806358,movie,Summer Qamp,Summer Qamp,2023,80,summer qamp,7.3,46,01/01/24 21:30
+tt2181814,movie,Summers Downstairs,Im Sommer wohnt er unten,2015,100,summers downstairs,6.3,236,01/01/24 21:30
+tt2184287,movie,Summer in February,Summer in February,2013,100,summer in february,5.6,4317,01/01/24 21:30
+tt21882432,video,Mugler: Spring Summer 2022,Mugler: Spring Summer 2022,2022,9,mugler spring summer 2022,4.3,18,01/01/24 21:30
+tt2188926,tvMovie,Strawberry Summer,Strawberry Summer,2012,120,strawberry summer,5.8,834,01/01/24 21:30
+tt21906990,movie,Summer Frost,Un hiver en été,2022,112,summer frost,4.5,131,01/01/24 21:30
+tt2196053,movie,Something Like Summer,Something Like Summer,2017,115,something like summer,6,1541,01/01/24 21:30
+tt22002112,movie,The Summer of Our Love,Mezhdu nami leto,2024,113,the summer of our love,5.9,42,01/01/24 21:30
+tt22197856,movie,Summer Brother,Zomervacht,2023,100,summer brother,7.5,199,01/01/24 21:30
+tt2221484,movie,The Last Soul on a Summer Night,The Last Soul on a Summer Night,2012,85,the last soul on a summer night,8.2,18,01/01/24 21:30
+tt2221727,movie,Last Summer Won't Happen,Last Summer Won't Happen,1968,68,last summer wont happen,7.1,16,01/01/24 21:30
+tt2222458,movie,The End of Summer,Natsu no owari,2013,114,the end of summer,6,142,01/01/24 21:30
+tt22393386,video,Wet Hot American Summer: Original Cast Live Read,Wet Hot American Summer: Original Cast Live Read,2020,NA,wet hot american summer original cast live read,6.4,17,01/01/24 21:30
+tt2253116,tvMovie,Summer Kiss,Summer Kiss,1987,NA,summer kiss,7.2,28,01/01/24 21:30
+tt2265352,movie,Love Summer,Love Summer,2011,110,love summer,6,93,01/01/24 21:30
+tt2279984,movie,The Summer Before,The Summer Before,2012,74,the summer before,6.9,17,01/01/24 21:30
+tt2291980,movie,Summer with Selik,Summer with Selik,1992,53,summer with selik,7.8,17,01/01/24 21:30
+tt2310958,movie,Summertime,Summertime,2012,93,summertime,3.2,231,01/01/24 21:30
+tt2322240,movie,Indian Summer,Indian Summer,2013,84,indian summer,8.4,10,01/01/24 21:30
+tt2326400,tvMovie,Summer Intensive,Summer Intensive,2012,NA,summer intensive,9.4,52,01/01/24 21:30
+tt2327275,tvMovie,Summer in Alsace,Ein Sommer im Elsass,2012,89,summer in alsace,5.6,55,01/01/24 21:30
+tt2337164,movie,Just One Summer,Just One Summer,2012,110,just one summer,7.3,37,01/01/24 21:30
+tt2347351,movie,Elvis: Summer of '56,Elvis: Summer of '56,2011,47,elvis summer of 56,6.4,33,01/01/24 21:30
+tt2349332,movie,Boyz of Summer,Boyz of Summer,2012,90,boyz of summer,8.2,16,01/01/24 21:30
+tt2350954,movie,Santa's Summer House,Santa's Summer House,2013,90,santas summer house,2.4,556,01/01/24 21:30
+tt2353979,tvMovie,A Summer in Croatia,Ein Sommer in Kroatien,2012,89,a summer in croatia,5.8,44,01/01/24 21:30
+tt23575228,video,Rick and Morty: Summer's Sleepover,Rick and Morty: Summer's Sleepover,2022,10,rick and morty summers sleepover,5.3,327,01/01/24 21:30
+tt2361172,video,ECW Super Summer Sizzler Spectacular,ECW Super Summer Sizzler Spectacular,1993,NA,ecw super summer sizzler spectacular,5.5,21,01/01/24 21:30
+tt2363564,movie,Barcelona Summer Night,Barcelona nit d'estiu,2013,96,barcelona summer night,6.2,1409,01/01/24 21:30
+tt2370230,movie,All Summers End,All Summers End,2017,90,all summers end,6.1,2969,01/01/24 21:30
+tt23720262,movie,Summer of Violence,Summer of Violence,2023,104,summer of violence,8.4,109,01/01/24 21:30
+tt2374965,movie,Summer Outside,Draussen ist Sommer,2012,96,summer outside,6.1,120,01/01/24 21:30
+tt23768070,movie,The Hottest Summer,L'estate più calda,2023,96,the hottest summer,5.5,472,01/01/24 21:30
+tt23770412,movie,One Summer,Le temps d'un été,2023,120,one summer,6.7,236,01/01/24 21:30
+tt2378830,movie,Summer of '92,Sommeren '92,2015,93,summer of 92,6.8,4862,01/01/24 21:30
+tt2388811,movie,Waiting for Summer,Waiting for Summer,2012,88,waiting for summer,7.8,11,01/01/24 21:30
+tt2402985,movie,Ping Pong Summer,Ping Pong Summer,2014,92,ping pong summer,5.4,3035,01/01/24 22:30
+tt2403803,movie,9 Days in Summer,9 Days in Summer,1967,48,9 days in summer,8.3,17,01/01/24 22:30
+tt2403931,movie,Polar Bears: A Summer Odyssey,Polar Bears: A Summer Odyssey,2012,46,polar bears a summer odyssey,7.2,334,01/01/24 22:30
+tt2404385,movie,Summer Snow,Summer Snow,2014,89,summer snow,6.2,345,01/01/24 22:30
+tt2412556,movie,Midsummer's Equation,Manatsu no hôteishiki,2013,129,midsummers equation,6.6,1245,01/01/24 22:30
+tt2436344,movie,A Very Unsettled Summer,O varã foarte instabilã,2013,98,a very unsettled summer,5.5,167,01/01/24 22:30
+tt24515124,movie,Winter Spring Summer or Fall,Winter Spring Summer or Fall,2024,97,winter spring summer or fall,6.5,178,01/01/24 22:30
+tt24805832,movie,In the Summers,In the Summers,2024,95,in the summers,6.9,137,01/01/24 22:30
+tt2492664,movie,May in the Summer,May in the Summer,2013,99,may in the summer,5.7,910,01/01/24 22:30
+tt2519890,movie,Summer Storm,Natsu no arashi,1956,87,summer storm,6.8,21,01/01/24 22:30
+tt2562234,movie,Ninja Kids!!!: Summer Mission Impossible,Nintama Rantarô: Natsuyasumi shukudai daisakusen! no dan,2013,90,ninja kids summer mission impossible,6.6,61,01/01/24 22:30
+tt2585078,movie,Summer League,Summer League,2013,95,summer league,5.1,415,01/01/24 22:30
+tt25994098,movie,Summer,Tag-init,2023,91,summer,4.2,415,01/01/24 22:30
+tt2638662,movie,Summer Camp,Summer Camp,2015,81,summer camp,5.1,4182,01/01/24 22:30
+tt26439316,movie,Summer Solstice,Summer Solstice,2023,81,summer solstice,7.1,19,01/01/24 22:30
+tt26508928,movie,First Snow of Summer,Sterne unter der Stadt,2023,90,first snow of summer,6.4,720,01/01/24 22:30
+tt2691102,movie,Summer,Zomer,2014,89,summer,6.4,308,01/01/24 22:30
+tt26928684,movie,Summer Camp,Summer Camp,2024,95,summer camp,4.5,642,01/01/24 22:30
+tt2705574,movie,Midsummer Night's Tango,Mittsommernachtstango,2013,84,midsummer nights tango,7.3,136,01/01/24 22:30
+tt27139897,movie,The Summer with Carmen,To kalokairi tis Karmen,2023,106,the summer with carmen,7.1,510,01/01/24 22:30
+tt2719868,movie,Last Summer,Last Summer,2013,73,last summer,5.6,1140,01/01/24 22:30
+tt27441898,movie,What the Finn?! - Summer of Surprises,Kannawoniwasein!,2023,94,what the finn  summer of surprises,6.4,48,01/01/24 22:30
+tt27548375,movie,Psy Summer Swag 2022,Psy Summer Swag 2022,2023,86,psy summer swag 2022,7.6,52,01/01/24 22:30
+tt27579804,movie,An Unforgettable Year: Summer,Um Ano Inesquecível: Verão,2023,101,an unforgettable year summer,5.3,231,01/01/24 22:30
+tt28077172,movie,The Summer,The Summer,2023,NA,the summer,7.4,14,01/01/24 22:30
+tt2816758,movie,Our Last Summer,Our Last Summer,2013,NA,our last summer,5.6,10,01/01/24 22:30
+tt28248430,movie,Tomorrow X Together: Our Lost Summer,Tomorrow X Together: Our Lost Summer,2023,82,tomorrow x together our lost summer,8.2,109,01/01/24 22:30
+tt28449053,movie,Snow in Midsummer,Snow in Midsummer,2023,116,snow in midsummer,6.7,119,01/01/24 22:30
+tt28516220,movie,Zara & Erika: Summer Beach Party,Zara & Erika: Summer Beach Party,2023,105,zara  erika summer beach party,7.2,14,01/01/24 22:30
+tt28521906,movie,Endless Summer Syndrome,Le syndrome de l'été sans fin,2023,98,endless summer syndrome,8.3,50,01/01/24 22:30
+tt28569819,movie,Griffin in Summer,Griffin in Summer,2024,90,griffin in summer,8.6,38,01/01/24 22:30
+tt28685746,video,Zac Posen: Z Spoke Spring/Summer 2011 Collection,Zac Posen: Z Spoke Spring/Summer 2011 Collection,2010,NA,zac posen z spoke springsummer 2011 collection,7.1,95,01/01/24 22:30
+tt28686139,video,Jill Stuart Spring/Summer 2011 Collection,Jill Stuart Spring/Summer 2011 Collection,2010,8,jill stuart springsummer 2011 collection,6.1,305,01/01/24 22:30
+tt2884186,movie,The Summer of Flying Fish,El Verano de los Peces Voladores,2013,95,the summer of flying fish,6.1,288,01/01/24 22:30
+tt28941580,movie,"Summers, el rebelde","Summers, el rebelde",2024,83,summers el rebelde,7.7,14,01/01/24 22:30
+tt2899120,movie,The Perfect Summer,The Perfect Summer,2013,80,the perfect summer,5.3,435,01/01/24 22:30
+tt2901516,movie,A Horse for Summer,A Horse for Summer,2015,96,a horse for summer,4.7,216,01/01/24 22:30
+tt2910342,movie,Dakota's Summer,Dakota's Summer,2014,91,dakotas summer,5.6,971,01/01/24 22:30
+tt2910508,movie,Dark Summer,Dark Summer,2015,81,dark summer,4.2,3465,01/01/24 22:30
+tt2911900,movie,9 Summers 10 Autumns,9 Summers 10 Autumns,2013,114,9 summers 10 autumns,8.1,81,01/01/24 22:30
+tt2949890,movie,Last Summer,Ruedoo ron nan chan tai,2013,93,last summer,5.4,245,01/01/24 22:30
+tt2955186,movie,Summer's Shadow,Summer's Shadow,2014,102,summers shadow,6.7,103,01/01/24 22:30
+tt2960324,tvMovie,Summer in Portugal,Ein Sommer in Portugal,2013,89,summer in portugal,5.5,65,01/01/24 22:30
+tt2994628,tvMovie,Deadly Summer,Mortel été,2013,90,deadly summer,5.5,64,01/01/24 22:30
+tt2994832,movie,The Summer of Sangaile,Sangailes vasara,2015,90,the summer of sangaile,6.4,3443,01/01/24 22:30
+tt3004380,movie,Midsummer Nightmares II: Summer's End,Midsummer Nightmares II: Summer's End,2014,NA,midsummer nightmares ii summers end,6.8,28,01/01/24 22:30
+tt3013588,movie,My Summer in Provence,Avis de mistral,2014,105,my summer in provence,6.6,4131,01/01/24 22:30
+tt3029368,tvMovie,Donna Summer: Hot Stuff,Donna Summer: Hot Stuff,2013,52,donna summer hot stuff,7.6,17,01/01/24 22:30
+tt3071192,movie,Cruel Summer,Cruel Summer,2016,80,cruel summer,5.4,1084,01/01/24 22:30
+tt30949231,movie,My Summer with Irene,Quell'estate con Irène,2024,90,my summer with irene,6.2,39,01/01/24 22:30
+tt3097490,movie,Summertime,Kesäkaverit,2014,90,summertime,5.5,963,01/01/24 22:30
+tt31240310,movie,Summer Time,Tabestane Haman Sal,2024,NA,summer time,8.2,116,01/01/24 22:30
+tt3124986,movie,Summer '82: When Zappa Came to Sicily,Summer '82: When Zappa Came to Sicily,2013,81,summer 82 when zappa came to sicily,6.7,231,01/01/24 22:30
+tt3128912,video,Zyuden Sentai Kyoryuger: It's Here! Armed on Midsummer Festival!!,Jûden Sentai Kyôryûjâ Detâ! Manatsu no Âmudo on Matsuri!!,2013,17,zyuden sentai kyoryuger its here armed on midsummer festival,4.6,10,01/01/24 22:30
+tt3137764,movie,Staten Island Summer,Staten Island Summer,2015,108,staten island summer,5.6,7352,01/01/24 22:30
+tt3149536,tvMovie,A Fairly Odd Summer,A Fairly Odd Summer,2014,68,a fairly odd summer,3.7,697,01/01/24 22:30
+tt3160290,movie,Summer Times,Xia tian xie zou qu,2009,96,summer times,6.3,76,01/01/24 22:30
+tt32135407,movie,Kyuka: Before Summer's End,Kyuka: Before Summer's End,2024,103,kyuka before summers end,7.9,16,01/01/24 22:30
+tt32201950,movie,Manson: Summer of Blood,Manson: Summer of Blood,2024,NA,manson summer of blood,6.8,17,01/01/24 22:30
+tt32235713,movie,Ya Boy Kongming! Road to Summer Sonia,Ya Boy Kongming! Road to Summer Sonia,2024,119,ya boy kongming road to summer sonia,7.2,13,01/01/24 22:30
+tt3233548,movie,The Rolling Stones: Sweet Summer Sun - Hyde Park Live,The Rolling Stones: Sweet Summer Sun - Hyde Park Live,2013,121,the rolling stones sweet summer sun  hyde park live,8,421,01/01/24 22:30
+tt32622643,tvMovie,Strawberry Shortcake's Summer Vacation,Strawberry Shortcake's Summer Vacation,2024,45,strawberry shortcakes summer vacation,6.8,11,01/01/24 22:30
+tt3273932,movie,Last Summer,Last Summer,2014,94,last summer,5.9,236,01/01/24 22:30
+tt3374966,movie,The Mafia Kills Only in Summer,La mafia uccide solo d'estate,2013,90,the mafia kills only in summer,7.1,8936,01/01/24 22:30
+tt3399862,movie,My Summer as a Goth,My Summer as a Goth,2018,100,my summer as a goth,5,130,01/01/24 22:30
+tt3416536,movie,Hot Summer Nights,Hot Summer Nights,2017,107,hot summer nights,6.4,24005,01/01/24 22:30
+tt3458196,movie,Freedom Summer,Freedom Summer,2014,113,freedom summer,7.8,233,01/01/24 22:30
+tt3474600,movie,Little Forest: Summer/Autumn,Ritoru foresuto: Natsu/Aki,2014,111,little forest summerautumn,7.6,3526,01/01/24 22:30
+tt3498918,movie,The Summer House,Das Sommerhaus,2014,95,the summer house,5.8,473,01/01/24 22:30
+tt3523088,movie,"June, the Beginning of Summer","Birzelis, vasaros pradzia",1969,100,june the beginning of summer,6.9,38,01/01/24 22:30
+tt3526924,movie,Summer Solstice,Letnie przesilenie,2015,96,summer solstice,6.2,427,01/01/24 22:30
+tt3533254,movie,A Dozen Summers,A Dozen Summers,2015,82,a dozen summers,6.3,112,01/01/24 22:30
+tt3623284,tvMovie,The Summers Sisters,The Summers Sisters,2014,29,the summers sisters,5.6,12,01/01/24 22:30
+tt3625352,movie,Summer of Blood,Summer of Blood,2014,86,summer of blood,5.4,1231,01/01/24 22:30
+tt3759430,movie,Summer Nights,Les nuits d'été,2014,104,summer nights,5.9,110,01/01/24 22:30
+tt3808172,movie,A Midsummer's Fantasia,Han yeo-reum-ui pan-ta-ji-a,2014,96,a midsummers fantasia,6.6,233,01/01/24 22:30
+tt3812730,movie,Julie Taymor's A Midsummer Night's Dream,A Midsummer Night's Dream,2014,144,julie taymors a midsummer nights dream,7.4,370,01/01/24 22:30
+tt3838694,video,Kasabian Summer Solstice,Kasabian Summer Solstice,2014,NA,kasabian summer solstice,9.4,14,01/01/24 22:30
+tt3883526,movie,Micky's Summer Resort,Micky's Summer Resort,2014,98,mickys summer resort,6.6,16,01/01/24 22:30
+tt3898504,movie,Persona 3 the Movie: #2 Midsummer Knight's Dream,Persona 3 the Movie: #2 Midsummer Knight's Dream,2014,93,persona 3 the movie 2 midsummer knights dream,6.7,628,01/01/24 22:30
+tt3906102,video,A Child's Time: A Child's Summer Time,Kodomo no jikan: Kodomo no natsu jikan,2011,23,a childs time a childs summer time,6.7,11,01/01/24 22:30
+tt3914324,movie,Eternal Summer,Odödliga,2015,106,eternal summer,6.1,813,01/01/24 22:30
+tt3948080,movie,Sweet Sweet Summertime,Sweet Sweet Summertime,2017,82,sweet sweet summertime,7.1,74,01/01/24 22:30
+tt3979660,tvMovie,Journey to SummerSlam: The Destruction of the Shield,Journey to SummerSlam: The Destruction of the Shield,2014,69,journey to summerslam the destruction of the shield,7.7,111,01/01/24 22:30
+tt3996544,tvMovie,Dragon Ball Z: Summer Vacation Special,Doragon bôru Z: Kyokugen batoru!! San dai sûpâ saiya-jin supesharu,1992,45,dragon ball z summer vacation special,5.9,138,01/01/24 22:30
+tt4009226,movie,5 Seconds of Summer: So Perfect,5 Seconds of Summer: So Perfect,2014,70,5 seconds of summer so perfect,7.6,93,01/01/24 22:30
+tt4021084,movie,This Summer Feeling,Ce sentiment de l'été,2015,106,this summer feeling,6.6,709,01/01/24 22:30
+tt4074180,movie,Shakespeare's Globe: A Midsummer Night's Dream,Shakespeare's Globe: A Midsummer Night's Dream,2014,172,shakespeares globe a midsummer nights dream,8.3,196,01/01/24 22:30
+tt4080768,movie,Summertime,La belle saison,2015,105,summertime,6.7,5747,01/01/24 22:30
+tt4158862,movie,Last Summer. Zombie Town,Last Summer. Zombie Town,2008,58,last summer zombie town,8,35,01/01/24 22:30
+tt4172146,movie,Summer of 8,Summer of 8,2016,88,summer of 8,5.5,1290,01/01/24 22:30
+tt4182064,movie,Late Summer,Sensommer,2016,72,late summer,5.1,372,01/01/24 22:30
+tt4288750,movie,The Last Summer of the Rich,Der letzte Sommer der Reichen,2014,92,the last summer of the rich,5.9,42,01/01/24 22:30
+tt4308718,movie,Summertime,Summertime,2006,105,summertime,8.2,13,01/01/24 22:30
+tt4354146,movie,Summerhouse Slaughter,Summerhouse Slaughter,2023,70,summerhouse slaughter,2.9,132,01/01/24 22:30
+tt4357012,movie,16 Years till Summer,16 Years till Summer,2015,87,16 years till summer,6.6,19,01/01/24 22:30
+tt4400040,tvMovie,A Summer in Barcelona,Ein Sommer in Barcelona,2015,88,a summer in barcelona,5.5,33,01/01/24 22:30
+tt4464176,tvMovie,"The Summer of Rave, 1989","The Summer of Rave, 1989",2006,60,the summer of rave 1989,6.5,41,01/01/24 22:30
+tt4469200,movie,The Dog Who Saved Summer,The Dog Who Saved Summer,2015,89,the dog who saved summer,4.6,252,01/01/24 22:30
+tt4469246,tvMovie,Summer Vacation,Otpusk letom,2015,90,summer vacation,5.8,26,01/01/24 22:30
+tt4590870,tvMovie,The Summer of the Cans,The Summer of the Cans,2014,59,the summer of the cans,8.1,20,01/01/24 22:30
+tt4648826,movie,Summer Forever,Summer Forever,2015,95,summer forever,5.6,220,01/01/24 22:30
+tt4650414,movie,Summertime,L'estate addosso,2016,103,summertime,6.2,1773,01/01/24 22:30
+tt4672158,video,It's Summer! It's Swimsuits! It's Training Camp!,It's Summer! It's Swimsuits! It's Training Camp!,2012,24,its summer its swimsuits its training camp,8.3,34,01/01/24 22:30
+tt4711486,movie,Summer on the Frontline,Soman kokkyô 15 sai no natsu,2015,94,summer on the frontline,4,10,01/01/24 22:30
+tt4743250,tvMovie,Secret Summer,Secret Summer,2016,84,secret summer,6.2,1004,01/01/24 22:30
+tt4807910,movie,Summer Breakers,Natsuyasumi no kyoshô,2015,NA,summer breakers,6.8,13,01/01/24 22:30
+tt4833838,movie,Summer Issues,Summer Issues,2020,95,summer issues,6.5,59,01/01/24 22:30
+tt4872210,movie,High Speed! Free! Starting Summer,Hai supîdo!: Free! Starting Days,2015,110,high speed free starting summer,7.1,632,01/01/24 22:30
+tt4873170,movie,Summer's Over,Vara s-a sfârsit,2016,105,summers over,6.9,291,01/01/24 22:30
+tt4940526,movie,Summer Daydream,Technicolour Daydream,2018,90,summer daydream,6.5,66,01/01/24 22:30
+tt4949272,movie,The Summer of Frozen Fountains,The Summer of Frozen Fountains,2015,103,the summer of frozen fountains,7,82,01/01/24 22:30
+tt4981724,tvMovie,Hontô ni atta Kowai Hanashi Summer Special 2015,Hontô ni atta Kowai Hanashi Summer Special 2015,2015,130,hontô ni atta kowai hanashi summer special 2015,6.5,15,01/01/24 22:30
+tt4985108,movie,"A Summer Day, Your Voice","Natsu no hi, kimi no koe",2015,94,a summer day your voice,6.9,23,01/01/24 22:30
+tt4997624,tvMovie,Summer Love,Summer Love,2016,83,summer love,6.4,2255,01/01/24 22:30
+tt5039930,movie,The Summer Project,The Summer Project,2015,105,the summer project,7.5,13,01/01/24 22:30
+tt5051278,tvMovie,A Midsummer Night's Dream,A Midsummer Night's Dream,2016,90,a midsummer nights dream,6.4,843,01/01/24 22:30
+tt5062646,tvMovie,The Midsummer Wreath,Svatojánský venecek,2015,96,the midsummer wreath,5.4,116,01/01/24 22:30
+tt5078158,movie,The Summer of All My Parents,Juillet août,2016,96,the summer of all my parents,5.4,263,01/01/24 22:30
+tt5174962,movie,Cyberteam in Akihabara: 2011 Summer Vacations,Cyber Team in Akihabara: The Movie,1999,60,cyberteam in akihabara 2011 summer vacations,5,22,01/01/24 22:30
+tt5192448,movie,Every Other Summer,Every Other Summer,2015,82,every other summer,5.8,13,01/01/24 22:30
+tt5213932,movie,The Summer Help,The Summer Help,2016,68,the summer help,8.9,10,01/01/24 22:30
+tt5220122,movie,Hotel Transylvania 3: Summer Vacation,Hotel Transylvania 3: Summer Vacation,2018,97,hotel transylvania 3 summer vacation,6.3,86904,01/01/24 22:30
+tt5222624,video,Five Seconds of Summer: How Did We End Up Here? Live at Wembley Arena,Five Seconds of Summer: How Did We End Up Here? Live at Wembley Arena,2015,95,five seconds of summer how did we end up here live at wembley arena,9,104,01/01/24 22:30
+tt5233554,movie,Before the Summer Crowds,Qabl Zahmat el-Saif,2015,90,before the summer crowds,5.3,638,01/01/24 22:30
+tt5333848,video,Girls Gone Wild: Summer Sexfest,Girls Gone Wild: Summer Sexfest,2014,NA,girls gone wild summer sexfest,6.8,16,01/01/24 22:30
+tt5461628,movie,Bangkok Summer,Bangkok Summer,2011,150,bangkok summer,3.5,27,01/01/24 22:30
+tt5543584,movie,Summer Guard,Kesävartija,2016,55,summer guard,6.5,20,01/01/24 22:30
+tt5598212,movie,Midsummer in Newtown,Midsummer in Newtown,2016,81,midsummer in newtown,6.8,44,01/01/24 22:30
+tt5599332,movie,Red Summer,Verano rojo,2017,89,red summer,3.6,398,01/01/24 22:30
+tt5605934,movie,Here Comes the Summer: The Undertones Story,Here Comes the Summer: The Undertones Story,2012,59,here comes the summer the undertones story,6.2,12,01/01/24 22:30
+tt5644394,movie,End of Summer,End of Summer,2017,85,end of summer,6.4,96,01/01/24 22:30
+tt5659816,movie,A Midsummer Night's Dream,A Midsummer Night's Dream,2017,105,a midsummer nights dream,5.5,263,01/01/24 22:30
+tt5670068,movie,Mr. Zhu's Summer,Mr. Zhu's Summer,2017,91,mr zhus summer,5.9,37,01/01/24 22:30
+tt5702328,movie,Hardball: The Girls of Summer,Hardball: The Girls of Summer,2019,75,hardball the girls of summer,7,47,01/01/24 22:30
+tt5734214,tvMovie,Summer in the City,Summer in the City,2016,83,summer in the city,6.3,1565,01/01/24 22:30
+tt5740308,movie,One Summer Night,One Summer Night,2019,147,one summer night,6.1,43,01/01/24 22:30
+tt5744236,tvMovie,A Midsummer Night's Dream,A Midsummer Night's Dream,2016,45,a midsummer nights dream,8.2,15,01/01/24 22:30
+tt5755040,movie,A Midsummer Night's Dream,A Midsummer Night's Dream,2017,106,a midsummer nights dream,6.7,16,01/01/24 22:30
+tt5772798,tvMovie,Euro 96: The Summer Football Came Home,Euro 96: The Summer Football Came Home,2016,NA,euro 96 the summer football came home,7.9,25,01/01/24 22:30
+tt5774450,movie,Summer of 84,Summer of 84,2018,105,summer of 84,6.7,46770,01/01/24 22:30
+tt5817498,tvMovie,Grandmother's Summer,Tabestane Aziz,2009,108,grandmothers summer,3.8,18,01/01/24 22:30
+tt5828874,tvMovie,My Summer Prince,My Summer Prince,2016,87,my summer prince,6.1,2482,01/01/24 22:30
+tt5834762,tvMovie,A Summer in Southern France,Ein Sommer in Südfrankreich,2016,90,a summer in southern france,5.7,76,01/01/24 22:30
+tt5885620,movie,Summer with Mica,Summer with Mica,2016,91,summer with mica,6.2,17,01/01/24 22:30
+tt5896568,movie,Age of Summer,Age of Summer,2018,88,age of summer,5.6,917,01/01/24 22:30
+tt5897636,movie,Summer 1993,Estiu 1993,2017,97,summer 1993,7.1,8548,01/01/24 22:30
+tt5900988,movie,Summer in the Forest,Summer in the Forest,2017,108,summer in the forest,7.8,42,01/01/24 22:30
+tt5922484,tvMovie,Summer Villa,Summer Villa,2016,85,summer villa,6.7,2791,01/01/24 22:30
+tt5984586,tvMovie,Honto ni Atta Kowai Hanashi Summer Special 2016,Honto ni Atta Kowai Hanashi Summer Special 2016,2016,120,honto ni atta kowai hanashi summer special 2016,7,19,01/01/24 22:30
+tt6006234,tvMovie,Summer of '44,Die Freibadclique,2017,104,summer of 44,5.7,334,01/01/24 22:30
+tt6008686,tvMovie,Summer of Dreams,Summer of Dreams,2016,84,summer of dreams,6.1,910,01/01/24 22:30
+tt6044548,movie,Summer Children,Sumarbörn,2017,85,summer children,6.2,69,01/01/24 22:30
+tt6046754,movie,Three Summers,Three Summers,2017,95,three summers,6.2,880,01/01/24 22:30
+tt6060234,tvMovie,A Midsummer's Hawaiian Dream,A Midsummer's Hawaiian Dream,2016,84,a midsummers hawaiian dream,4.6,209,01/01/24 22:30
+tt6075750,movie,Summer's Desire,Pao mo zhi xia,2016,98,summers desire,3.8,20,01/01/24 22:30
+tt6097278,movie,Damned Summer,Verão Danado,2017,127,damned summer,5.2,330,01/01/24 22:30
+tt6118258,movie,The Summer Is Gone,Ba yue,2016,106,the summer is gone,6.8,397,01/01/24 22:30
+tt6133146,movie,Memories of Summer,Wspomnienie lata,2016,90,memories of summer,6.4,195,01/01/24 22:30
+tt6150184,movie,Summer Snow,Mianhae saranghae gomaweo,2015,115,summer snow,6.5,60,01/01/24 22:30
+tt6213850,movie,Searing Summer,Tabestan-e Dagh,2017,80,searing summer,5.6,614,01/01/24 22:30
+tt6215166,tvMovie,A Midsummer's Nightmare,A Midsummer's Nightmare,2017,NA,a midsummers nightmare,6.8,54,01/01/24 22:30
+tt6292622,movie,Summer Lights,Lumières d'été,2016,82,summer lights,6.6,107,01/01/24 22:30
+tt6419470,movie,Three Summer Nights,Seuri seommeo nait,2015,108,three summer nights,5.9,42,01/01/24 22:30
+tt6435566,tvMovie,Playboy Mid Summer Night's Dream Party 1985,Playboy Midsummer Night's Dream Party 1985,1985,NA,playboy mid summer nights dream party 1985,7,20,01/01/24 22:30
+tt6464512,tvMovie,A summer in Cyprus,Ein Sommer auf Zypern,2017,90,a summer in cyprus,5.3,85,01/01/24 22:30
+tt6536668,movie,Summer of '67,Summer of '67,2018,83,summer of 67,4.9,199,01/01/24 22:30
+tt6666116,movie,Summertime Dropouts,Summertime Dropouts,2021,92,summertime dropouts,5.3,84,01/01/24 22:30
+tt6715992,movie,Scream for Summer,Scream for Summer,2017,112,scream for summer,4.2,62,01/01/24 22:30
+tt6742246,tvMovie,A Midsummer Night's Dream,Sen noci svatojánské,1973,75,a midsummer nights dream,6.2,21,01/01/24 22:30
+tt6807046,tvMovie,"An American Girl Story: Summer Camp, Friends for Life","An American Girl Story: Summer Camp, Friends for Life",2017,32,an american girl story summer camp friends for life,6.4,94,01/01/24 22:30
+tt6839560,movie,The Rite of Summer,Le sacre de l'été,2018,80,the rite of summer,9.1,14,01/01/24 22:30
+tt6841122,movie,Summerland,Summerland,2020,99,summerland,7,9472,01/01/24 22:30
+tt6851430,movie,My Extraordinary Summer with Tess,Mijn bijzonder rare week met Tess,2019,82,my extraordinary summer with tess,7,1123,01/01/24 22:30
+tt6917656,tvMovie,Nickelodeon's Sizzling Summer Camp Special,Nickelodeon's Sizzling Summer Camp Special,2017,60,nickelodeons sizzling summer camp special,6.9,114,01/01/24 22:30
+tt6926116,movie,A Midsummer Night's Dream,A Midsummer Night's Dream,2022,NA,a midsummer nights dream,7.4,22,01/01/24 22:30
+tt6929278,movie,Shashin Koshien Summer in 0.5 Seconds,Shashin kôshien 0.5 byô no natsu,2017,117,shashin koshien summer in 05 seconds,7.5,13,01/01/24 22:30
+tt6982508,movie,The Long Summer of Theory,Der lange Sommer der Theorie,2017,82,the long summer of theory,6.2,103,01/01/24 22:30
+tt7026270,movie,"Summer Days, Summer Nights",Summertime,2018,124,summer days summer nights,6.2,1005,01/01/24 22:30
+tt7028250,movie,Before Summer Ends,Avant la fin de l'été,2017,80,before summer ends,6.5,308,01/01/24 22:30
+tt7042586,tvMovie,Summer in the Vineyard,Summer in the Vineyard,2017,82,summer in the vineyard,6.2,1428,01/01/24 22:30
+tt7057306,movie,That Summer,Den sommaren,2017,80,that summer,6.5,513,01/01/24 22:30
+tt7085058,movie,Summer Blooms,Shigatsu no nagai yume,2017,93,summer blooms,6.6,204,01/01/24 22:30
+tt7123254,movie,Summer Palace,Summer Palace,2000,114,summer palace,3.3,24,01/01/24 22:30
+tt7149192,tvMovie,The Summer of Love,The Summer of Love,2017,NA,the summer of love,6.3,36,01/01/24 22:30
+tt7216918,movie,The Summer House,Les estivants,2018,127,the summer house,5.3,647,01/01/24 22:30
+tt7227024,video,Sakura Wars: The Gorgeous Blooming Cherry Blossoms Act 4: A Midsummer Night's Dream,Sakura Taisen Ôka Kenran: Dai Shi-maku: Manatsu no Yume no Yoru,1998,30,sakura wars the gorgeous blooming cherry blossoms act 4 a midsummer nights dream,7,15,01/01/24 22:30
+tt7284204,movie,Summer '03,Summer '03,2018,95,summer 03,5.5,3956,01/01/24 22:30
+tt7300458,video,SummerSlam's Greatest Hits,SummerSlam's Greatest Hits,1992,60,summerslams greatest hits,6,10,01/01/24 22:30
+tt7343740,movie,Days of the Bagnold Summer,Days of the Bagnold Summer,2019,86,days of the bagnold summer,6.5,2631,01/01/24 22:30
+tt7346310,video,RiffTrax Live: Summer Shorts Beach Party,RiffTrax Live: Summer Shorts Beach Party,2017,118,rifftrax live summer shorts beach party,7.4,161,01/01/24 22:30
+tt7406704,movie,Last Summer,Last Summer,2018,97,last summer,6.2,374,01/01/24 22:30
+tt7428820,movie,Summer Night,Summer Night,2019,98,summer night,4.8,1130,01/01/24 22:30
+tt7476812,movie,One Summer Afternoon,One Summer Afternoon,2019,78,one summer afternoon,4.9,43,01/01/24 22:30
+tt7481324,movie,Summer Holidays,Ta'tilat-e tabestani,1996,NA,summer holidays,5.1,18,01/01/24 22:30
+tt7502220,tvMovie,Alaskan Summer,Alaskan Summer,2017,60,alaskan summer,7.2,32,01/01/24 22:30
+tt7543058,movie,Best Summer Ever,Best Summer Ever,2020,72,best summer ever,5.2,174,01/01/24 22:30
+tt7556356,movie,Summer in the Shade,Summer in the Shade,2020,84,summer in the shade,6.4,62,01/01/24 22:30
+tt7591430,movie,Summer Survivors,Ishgyventi vasara,2018,91,summer survivors,7.5,1642,01/01/24 22:30
+tt7612992,movie,A Long Hot Summer in Palestine,A Long Hot Summer in Palestine,2018,74,a long hot summer in palestine,8.1,12,01/01/24 22:30
+tt7679126,movie,The Best Summer of My Life,El mejor verano de mi vida,2018,91,the best summer of my life,5.8,1650,01/01/24 22:30
+tt7905318,movie,Summer Knight,Xia ye qi shi,2019,99,summer knight,6.5,34,01/01/24 22:30
+tt7946114,movie,Summer of My Discontent,Summer of My Discontent,2018,75,summer of my discontent,6.5,11,01/01/24 22:30
+tt7957694,movie,The Last Summer,The Last Summer,2019,109,the last summer,5.5,14433,01/01/24 22:30
+tt8045100,movie,One Summer When You Went Away,One Summer When You Went Away,2021,90,one summer when you went away,8.2,37,01/01/24 22:30
+tt8209898,movie,50 Summers,50 Summers,2018,98,50 summers,6.7,56,01/01/24 22:30
+tt8312392,tvMovie,A Summer to Remember,A Summer to Remember,2018,82,a summer to remember,6.4,1394,01/01/24 22:30
+tt8380458,movie,Our Last Summer,Our Last Summer,2018,100,our last summer,7.6,20,01/01/24 22:30
+tt8396742,video,1982: One Amazing Summer!,1982: One Amazing Summer!,2017,28,1982 one amazing summer,6.9,10,01/01/24 22:30
+tt8400416,movie,Summer in Closed Eyes,Nham Mat Thay Mua He,2018,98,summer in closed eyes,6.6,238,01/01/24 22:30
+tt8414124,movie,Between Summer and Fall,Zwischen Sommer und Herbst,2018,102,between summer and fall,6.9,354,01/01/24 22:30
+tt8510070,movie,Summerland,Summerland,2020,80,summerland,6.5,97,01/01/24 22:30
+tt8536058,tvMovie,A Summer in Oxford,Ein Sommer in Oxford,2018,90,a summer in oxford,5.7,44,01/01/24 22:30
+tt8571578,movie,Blue Summer,Ao-Natsu: Kimi ni Koi Shita 30-Nichi,2018,113,blue summer,6,120,01/01/24 22:30
+tt8628960,movie,Summerhouse,Ljetnikovac,2018,73,summerhouse,6.8,45,01/01/24 22:30
+tt8660578,video,One Crazy Summer: A Look Back at Gravity Falls,One Crazy Summer: A Look Back at Gravity Falls,2018,105,one crazy summer a look back at gravity falls,8.9,75,01/01/24 22:30
+tt8723762,tvMovie,Endless Summer: 30 Years of Home and Away,Endless Summer: 30 Years of Home and Away,2018,47,endless summer 30 years of home and away,9.2,11,01/01/24 22:30
+tt8730658,movie,"Summer Soul, Sunshine Patriot, and the American Message","Summer Soul, Sunshine Patriot, and the American Message",2008,NA,summer soul sunshine patriot and the american message,9,16,01/01/24 22:30
+tt8774112,video,'Hocus Pocus' 25th Anniversary Panel at Midsummer,'Hocus Pocus' 25th Anniversary Panel at Midsummer,2018,80,hocus pocus 25th anniversary panel at midsummer,7.8,16,01/01/24 22:30
+tt8869128,movie,Summer Camp,Summer Camp,2018,128,summer camp,7.9,16,01/01/24 22:30
+tt8998220,movie,Zulu Summer,Zulu Summer,2019,78,zulu summer,8,52,01/01/24 22:30
+tt9013026,movie,This Guest of Summer,This Guest of Summer,NA,NA,this guest of summer,7.9,179,01/01/24 22:30
+tt9037708,movie,The Girls of Summer,The Girls of Summer,2020,94,the girls of summer,5.9,101,01/01/24 22:30
+tt9174108,movie,60 Days of Summer,60 Days of Summer,2018,94,60 days of summer,6.2,40,01/01/24 22:30
+tt9174120,movie,Passing Summer,Passing Summer,2018,93,passing summer,6,40,01/01/24 22:30
+tt9185542,movie,An Almost Ordinary Summer,Croce e delizia,2019,100,an almost ordinary summer,6.2,999,01/01/24 22:30
+tt9265856,movie,Nineteen Summers,Nineteen Summers,2019,118,nineteen summers,4.3,306,01/01/24 22:30
+tt9272590,tvMovie,The Summer After Graduation,Sommer nach dem Abi,2019,88,the summer after graduation,5.8,235,01/01/24 22:30
+tt9315684,movie,Summerlight... and Then Comes the Night,Summerlight... and Then Comes the Night,2022,111,summerlight and then comes the night,6.9,147,01/01/24 22:30
+tt9320170,movie,The Beautiful Summer,La bella estate,2023,111,the beautiful summer,5.4,443,01/01/24 22:30
+tt9382076,movie,Summer Love,Summer Love,2019,NA,summer love,7.5,17,01/01/24 22:30
+tt9430712,movie,Let the Summer Never Come Again,Lass den Sommer nie wieder kommen,2017,202,let the summer never come again,6.2,98,01/01/24 22:30
+tt9530420,movie,Goodbye Summer,Goodbye Summer,2019,67,goodbye summer,5.6,79,01/01/24 22:30
+tt9716208,movie,Summer of Mesa,Summer of Mesa,2020,76,summer of mesa,5.5,114,01/01/24 22:30
+tt9842874,movie,Nothing Left - Just That Summer,Ein wilder Sommer - Die Wachausaga,2018,154,nothing left  just that summer,4.4,15,01/01/24 22:30
